@@ -430,7 +430,7 @@ export function HotInboxClient() {
 
   return (
     <div className="flex flex-col gap-6">
-      <div className="rounded-xl border border-black/10 p-4 dark:border-white/10">
+      <div className="rounded-2xl border border-border bg-surface p-4 shadow-[0_1px_0_rgba(15,23,42,0.04)] sm:p-5">
         <div className="flex flex-col gap-2 sm:flex-row sm:items-start sm:justify-between">
           <div>
             <div className="text-sm font-semibold">自动热点（每日更新）</div>
@@ -444,7 +444,7 @@ export function HotInboxClient() {
             type="button"
             onClick={importAllAuto}
             disabled={!autoItems.length}
-            className="h-9 rounded-lg border border-black/10 px-3 text-xs font-medium hover:bg-black/5 disabled:opacity-50 dark:border-white/10 dark:hover:bg-white/10"
+            className="h-9 rounded-lg border border-border bg-muted px-3 text-xs font-medium hover:bg-muted/70 disabled:opacity-50"
           >
             全部转入我的热点
           </button>
@@ -454,7 +454,7 @@ export function HotInboxClient() {
           {autoItems.slice(0, 20).map((it) => (
             <div
               key={`${it.platform ?? "na"}:${it.url ?? it.title}`}
-              className="flex flex-col gap-2 rounded-lg bg-black/5 p-3 dark:bg-white/10 sm:flex-row sm:items-start sm:justify-between"
+              className="flex flex-col gap-2 rounded-xl bg-muted p-3 sm:flex-row sm:items-start sm:justify-between"
             >
               <div className="min-w-0">
                 <div className="truncate text-sm font-medium">{it.title}</div>
@@ -485,7 +485,7 @@ export function HotInboxClient() {
                     {it.keywords.slice(0, 6).map((k) => (
                       <span
                         key={`${it.title}:${k}`}
-                        className="rounded-full border border-black/10 px-2 py-0.5 text-xs text-foreground/70 dark:border-white/10"
+                        className="rounded-full border border-border bg-surface px-2 py-0.5 text-xs text-foreground/70"
                       >
                         {k}
                       </span>
@@ -497,13 +497,13 @@ export function HotInboxClient() {
                   <button
                     type="button"
                     onClick={() => toggleExpanded(`auto:${it.url ?? it.title}`)}
-                    className="h-8 rounded-lg border border-black/10 px-3 text-xs font-medium hover:bg-black/5 dark:border-white/10 dark:hover:bg-white/10"
+                    className="h-8 rounded-lg border border-border bg-surface px-3 text-xs font-medium hover:bg-muted/70"
                   >
                     推荐材料
                   </button>
                   <a
                     href="/studio/compare"
-                    className="h-8 rounded-lg border border-black/10 px-3 text-xs font-medium hover:bg-black/5 dark:border-white/10 dark:hover:bg-white/10"
+                    className="h-8 rounded-lg border border-border bg-surface px-3 text-xs font-medium hover:bg-muted/70"
                   >
                     去对照卡
                   </a>
@@ -515,7 +515,7 @@ export function HotInboxClient() {
                       materialMatchesByKey[`auto:${it.url ?? it.title}`].map((m) => (
                         <div
                           key={m.material.id}
-                          className="rounded-lg border border-black/10 bg-transparent p-3 text-sm dark:border-white/10"
+                          className="rounded-xl border border-border bg-surface-2 p-3 text-sm"
                         >
                           <div className="flex flex-col gap-2 sm:flex-row sm:items-start sm:justify-between">
                             <div className="min-w-0">

@@ -1,26 +1,102 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Cyberpunk / High-Contrast Reflect Style */
+  --background: #050505;
+  --foreground: #ffffff;
+  
+  /* Neon Palette */
+  --neon-cyan: #00f3ff;
+  --neon-purple: #bc13fe;
+  --neon-magenta: #ff00ff;
+  --neon-blue: #2f80ed;
+  
+  /* Glass Surfaces - Slightly brighter for visibility */
+  --surface: rgba(20, 20, 30, 0.4);
+  --surface-2: rgba(30, 30, 45, 0.6);
+  --muted: rgba(255, 255, 255, 0.1);
+  
+  /* Borders - Visible & Glowing */
+  --border: rgba(255, 255, 255, 0.15);
+  --border-hover: rgba(0, 243, 255, 0.5); /* Cyan glow on hover */
+  
+  /* Accents */
+  --ring: var(--neon-purple);
+  --accent: #ffffff;
+  --accent-foreground: #000000;
+  
+  /* Glows */
+  --glow-primary: var(--neon-purple);
+  --glow-cyan: var(--neon-cyan);
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-border: var(--border);
+  --color-ring: var(--ring);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  
+  --color-neon-cyan: var(--neon-cyan);
+  --color-neon-purple: var(--neon-purple);
+  --color-neon-magenta: var(--neon-magenta);
+  
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  
+  --shadow-glow: 0 0 20px -5px var(--neon-purple);
+  --shadow-neon: 0 0 10px rgba(0, 243, 255, 0.5), 0 0 20px rgba(0, 243, 255, 0.3);
+  --shadow-glass: 0 8px 32px rgba(0, 0, 0, 0.5);
+  
+  --animate-shimmer: shimmer 2s linear infinite;
+  --animate-pulse-slow: pulse-slow 4s ease-in-out infinite;
+  --animate-float: float 6s ease-in-out infinite;
+  --animate-scanline: scanline 8s linear infinite;
+  
+  @keyframes shimmer {
+    from { background-position: 0 0; }
+    to { background-position: -200% 0; }
+  }
+  
+  @keyframes pulse-slow {
+    0%, 100% { opacity: 0.4; transform: scale(1); filter: brightness(1); }
+    50% { opacity: 0.8; transform: scale(1.05); filter: brightness(1.2); }
+  }
+  
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+  
+  @keyframes scanline {
+    0% { transform: translateY(-100%); }
+    100% { transform: translateY(100%); }
   }
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans), system-ui, sans-serif;
+  
+  /* Cyber Grid Background */
+  background-image: 
+    linear-gradient(rgba(0, 243, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 243, 255, 0.03) 1px, transparent 1px),
+    radial-gradient(circle at 50% 0%, rgba(188, 19, 254, 0.15) 0%, transparent 60%);
+  background-size: 40px 40px, 40px 40px, 100% 100%;
+  background-position: center top;
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+/* Neon Text Selection */
+::selection {
+  background: var(--neon-cyan);
+  color: black;
+  text-shadow: none;
 }

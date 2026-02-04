@@ -285,7 +285,7 @@ export function LibraryClient() {
 
   return (
     <div className="flex flex-col gap-6">
-      <div className="rounded-xl border border-black/10 p-4 dark:border-white/10">
+      <div className="rounded-2xl border border-border bg-surface p-4 shadow-[0_1px_0_rgba(15,23,42,0.04)] sm:p-5">
         <div className="text-sm font-semibold">自动匹配</div>
         <div className="mt-0.5 text-xs text-foreground/60">
           输入热点标题/摘要/关键词，系统会从材料库里自动推荐最相关的资料。
@@ -295,12 +295,12 @@ export function LibraryClient() {
             value={matchQ}
             onChange={(e) => setMatchQ(e.target.value)}
             placeholder="例如：地方财政吃紧、税负争议、舆论发酵"
-            className="h-11 flex-1 rounded-lg border border-black/10 bg-transparent px-3 text-sm outline-none focus:border-black/30 dark:border-white/10 dark:focus:border-white/30"
+            className="h-11 flex-1 rounded-lg border border-border bg-surface px-3 text-sm outline-none placeholder:text-foreground/40 focus-visible:ring-2 focus-visible:ring-ring"
           />
           <button
             type="button"
             onClick={() => setMatchQ("")}
-            className="h-11 rounded-lg border border-black/10 px-4 text-sm font-medium hover:bg-black/5 dark:border-white/10 dark:hover:bg-white/10"
+            className="h-11 rounded-lg border border-border bg-muted px-4 text-sm font-medium hover:bg-muted/70"
           >
             清空
           </button>
@@ -312,7 +312,7 @@ export function LibraryClient() {
               autoMatches.map((m) => (
                 <div
                   key={m.material.id}
-                  className="rounded-lg border border-black/10 p-3 text-sm dark:border-white/10"
+                  className="rounded-xl border border-border bg-surface-2 p-3 text-sm"
                 >
                   <div className="flex flex-col gap-2 sm:flex-row sm:items-start sm:justify-between">
                     <div className="min-w-0">
@@ -340,7 +340,7 @@ export function LibraryClient() {
                           {m.reason.tokens.slice(0, 8).map((t) => (
                             <span
                               key={`${m.material.id}:${t}`}
-                              className="rounded-full border border-black/10 px-2 py-0.5 text-xs text-foreground/70 dark:border-white/10"
+                              className="rounded-full border border-border bg-surface px-2 py-0.5 text-xs text-foreground/70"
                             >
                               {t}
                             </span>
@@ -348,7 +348,7 @@ export function LibraryClient() {
                           {m.reason.dimensions.map((d) => (
                             <span
                               key={`${m.material.id}:${d}`}
-                              className="rounded-full border border-black/10 px-2 py-0.5 text-xs text-foreground/70 dark:border-white/10"
+                              className="rounded-full border border-border bg-surface px-2 py-0.5 text-xs text-foreground/70"
                             >
                               {d}
                             </span>
@@ -356,7 +356,7 @@ export function LibraryClient() {
                           {m.reason.dynasties.map((d) => (
                             <span
                               key={`${m.material.id}:${d}`}
-                              className="rounded-full border border-black/10 px-2 py-0.5 text-xs text-foreground/70 dark:border-white/10"
+                              className="rounded-full border border-border bg-surface px-2 py-0.5 text-xs text-foreground/70"
                             >
                               {d}
                             </span>
@@ -367,7 +367,7 @@ export function LibraryClient() {
                     <button
                       type="button"
                       onClick={() => setQ(m.material.title)}
-                      className="h-9 shrink-0 self-start rounded-lg border border-black/10 px-3 text-xs font-medium hover:bg-black/5 dark:border-white/10 dark:hover:bg-white/10"
+                      className="h-9 shrink-0 self-start rounded-lg border border-border bg-muted px-3 text-xs font-medium hover:bg-muted/70"
                     >
                       用作搜索
                     </button>
@@ -383,7 +383,7 @@ export function LibraryClient() {
         ) : null}
       </div>
 
-      <div className="rounded-xl border border-black/10 p-4 dark:border-white/10">
+      <div className="rounded-2xl border border-border bg-surface p-4 shadow-[0_1px_0_rgba(15,23,42,0.04)] sm:p-5">
         <div className="text-sm font-semibold">在线搜索古籍原文</div>
         <div className="mt-0.5 text-xs text-foreground/60">
           只检索古籍站点，并尽量解析“书名/卷篇章节”，同时抓取原文摘录。
@@ -398,8 +398,8 @@ export function LibraryClient() {
                 onClick={() => toggleClassicalSite(s.id)}
                 className={
                   on
-                    ? "rounded-full bg-foreground px-2 py-0.5 text-xs text-background"
-                    : "rounded-full border border-black/10 px-2 py-0.5 text-xs text-foreground/70 hover:bg-black/5 dark:border-white/10 dark:hover:bg-white/10"
+                    ? "rounded-full bg-accent px-2 py-0.5 text-xs text-accent-foreground"
+                    : "rounded-full border border-border bg-surface px-2 py-0.5 text-xs text-foreground/70 hover:bg-muted/70"
                 }
               >
                 {s.label}
@@ -412,13 +412,13 @@ export function LibraryClient() {
             value={webQ}
             onChange={(e) => setWebQ(e.target.value)}
             placeholder="例如：地方债 财政压力 历史 类比"
-            className="h-11 flex-1 rounded-lg border border-black/10 bg-transparent px-3 text-sm outline-none focus:border-black/30 dark:border-white/10 dark:focus:border-white/30"
+            className="h-11 flex-1 rounded-lg border border-border bg-surface px-3 text-sm outline-none placeholder:text-foreground/40 focus-visible:ring-2 focus-visible:ring-ring"
           />
           <button
             type="button"
             onClick={runWebSearch}
             disabled={!webQ.trim() || webLoading}
-            className="h-11 rounded-lg bg-foreground px-4 text-sm font-medium text-background hover:bg-foreground/90 disabled:opacity-50"
+            className="h-11 rounded-lg bg-accent px-4 text-sm font-medium text-accent-foreground hover:bg-accent/90 disabled:opacity-50"
           >
             {webLoading ? "搜索中" : "搜索"}
           </button>
@@ -431,7 +431,7 @@ export function LibraryClient() {
             {webResults.map((r) => (
               <div
                 key={r.citation?.canonicalUrl ?? r.url ?? r.title}
-                className="rounded-lg border border-black/10 p-3 text-sm dark:border-white/10"
+                className="rounded-xl border border-border bg-surface-2 p-3 text-sm"
               >
                 <div className="flex flex-col gap-2 sm:flex-row sm:items-start sm:justify-between">
                   <div className="min-w-0">
@@ -475,7 +475,7 @@ export function LibraryClient() {
                   <button
                     type="button"
                     onClick={() => saveSearchResultAsMaterial(r)}
-                    className="h-9 shrink-0 self-start rounded-lg border border-black/10 px-3 text-xs font-medium hover:bg-black/5 dark:border-white/10 dark:hover:bg-white/10"
+                    className="h-9 shrink-0 self-start rounded-lg border border-border bg-muted px-3 text-xs font-medium hover:bg-muted/70"
                   >
                     保存为史料
                   </button>
@@ -486,7 +486,7 @@ export function LibraryClient() {
         ) : null}
       </div>
 
-      <div className="rounded-xl border border-black/10 p-4 dark:border-white/10">
+      <div className="rounded-2xl border border-border bg-surface p-4 shadow-[0_1px_0_rgba(15,23,42,0.04)] sm:p-5">
         <div className="grid gap-3 sm:grid-cols-2">
           <div className="flex flex-col gap-1 sm:col-span-2">
             <label className="text-sm font-medium" htmlFor="title">
@@ -497,7 +497,7 @@ export function LibraryClient() {
               value={title}
               onChange={(e) => setTitle(e.target.value)}
               placeholder="例如：《盐铁论》里的财政争论"
-              className="h-11 rounded-lg border border-black/10 bg-transparent px-3 text-sm outline-none focus:border-black/30 dark:border-white/10 dark:focus:border-white/30"
+              className="h-11 rounded-lg border border-border bg-surface px-3 text-sm outline-none placeholder:text-foreground/40 focus-visible:ring-2 focus-visible:ring-ring"
             />
           </div>
 
@@ -511,13 +511,13 @@ export function LibraryClient() {
                 value={url}
                 onChange={(e) => setUrl(e.target.value)}
                 placeholder="论文/书评/公众号文章/视频链接…"
-                className="h-11 flex-1 rounded-lg border border-black/10 bg-transparent px-3 text-sm outline-none focus:border-black/30 dark:border-white/10 dark:focus:border-white/30"
+                className="h-11 flex-1 rounded-lg border border-border bg-surface px-3 text-sm outline-none placeholder:text-foreground/40 focus-visible:ring-2 focus-visible:ring-ring"
               />
               <button
                 type="button"
                 onClick={() => url && fetchTitleFromUrl(url)}
                 disabled={!url || loadingTitle}
-                className="h-11 rounded-lg border border-black/10 px-4 text-sm font-medium hover:bg-black/5 disabled:opacity-50 dark:border-white/10 dark:hover:bg-white/10"
+                className="h-11 rounded-lg border border-border bg-muted px-4 text-sm font-medium hover:bg-muted/70 disabled:opacity-50"
               >
                 {loadingTitle ? "抓取中" : "抓取标题"}
               </button>
@@ -537,7 +537,7 @@ export function LibraryClient() {
               id="type"
               value={sourceType}
               onChange={(e) => setSourceType(e.target.value as SourceType)}
-              className="h-11 rounded-lg border border-black/10 bg-transparent px-3 text-sm outline-none focus:border-black/30 dark:border-white/10 dark:focus:border-white/30"
+              className="h-11 rounded-lg border border-border bg-surface px-3 text-sm outline-none focus-visible:ring-2 focus-visible:ring-ring"
             >
               {SOURCE_TYPES.map((t) => (
                 <option key={t} value={t}>
@@ -555,7 +555,7 @@ export function LibraryClient() {
               id="cred"
               value={credibility}
               onChange={(e) => setCredibility(e.target.value as Credibility)}
-              className="h-11 rounded-lg border border-black/10 bg-transparent px-3 text-sm outline-none focus:border-black/30 dark:border-white/10 dark:focus:border-white/30"
+              className="h-11 rounded-lg border border-border bg-surface px-3 text-sm outline-none focus-visible:ring-2 focus-visible:ring-ring"
             >
               {CREDIBILITY_LEVELS.map((c) => (
                 <option key={c} value={c}>
@@ -699,7 +699,7 @@ export function LibraryClient() {
             id="dynasty"
             value={filterDynasty}
             onChange={(e) => setFilterDynasty(e.target.value as Dynasty | "全部")}
-            className="h-11 rounded-lg border border-black/10 bg-transparent px-3 text-sm outline-none focus:border-black/30 dark:border-white/10 dark:focus:border-white/30"
+            className="h-11 rounded-lg border border-border bg-surface px-3 text-sm outline-none focus-visible:ring-2 focus-visible:ring-ring"
           >
             <option value="全部">全部</option>
             {DYNASTIES.map((d) => (
@@ -711,13 +711,13 @@ export function LibraryClient() {
         </div>
       </div>
 
-      <div className="text-sm text-foreground/70">共 {filtered.length} 条材料</div>
+      <div className="text-sm text-foreground/60">共 {filtered.length} 条材料</div>
 
       <div className="grid gap-3">
         {filtered.map((m) => (
           <div
             key={m.id}
-            className="rounded-xl border border-black/10 p-4 dark:border-white/10"
+            className="rounded-2xl border border-border bg-surface p-4 shadow-[0_1px_0_rgba(15,23,42,0.04)] sm:p-5"
           >
             <div className="flex flex-col gap-2 sm:flex-row sm:items-start sm:justify-between">
               <div className="min-w-0">

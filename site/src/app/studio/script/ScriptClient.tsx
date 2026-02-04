@@ -182,7 +182,7 @@ export function ScriptClient() {
 
   return (
     <div className="flex flex-col gap-6">
-      <div className="rounded-xl border border-black/10 p-4 dark:border-white/10">
+      <div className="rounded-2xl border border-border bg-surface p-4 shadow-[0_1px_0_rgba(15,23,42,0.04)] sm:p-5">
         <div className="grid gap-3 sm:grid-cols-2">
           <div className="flex flex-col gap-1">
             <label className="text-sm font-medium" htmlFor="topic">
@@ -193,7 +193,7 @@ export function ScriptClient() {
               value={topicTitle}
               onChange={(e) => setTopicTitle(e.target.value)}
               placeholder="例如：某地限购政策争议"
-              className="h-11 rounded-lg border border-black/10 bg-transparent px-3 text-sm outline-none focus:border-black/30 dark:border-white/10 dark:focus:border-white/30"
+              className="h-11 rounded-lg border border-border bg-surface px-3 text-sm outline-none placeholder:text-foreground/40 focus-visible:ring-2 focus-visible:ring-ring"
             />
           </div>
           <div className="flex flex-col gap-1">
@@ -205,7 +205,7 @@ export function ScriptClient() {
               value={title}
               onChange={(e) => setTitle(e.target.value)}
               placeholder="用于发布的标题"
-              className="h-11 rounded-lg border border-black/10 bg-transparent px-3 text-sm outline-none focus:border-black/30 dark:border-white/10 dark:focus:border-white/30"
+              className="h-11 rounded-lg border border-border bg-surface px-3 text-sm outline-none placeholder:text-foreground/40 focus-visible:ring-2 focus-visible:ring-ring"
             />
           </div>
 
@@ -217,7 +217,7 @@ export function ScriptClient() {
               id="compare"
               value={selectedCompareId}
               onChange={(e) => onSelectCompare(e.target.value)}
-              className="h-11 rounded-lg border border-black/10 bg-transparent px-3 text-sm outline-none focus:border-black/30 dark:border-white/10 dark:focus:border-white/30"
+              className="h-11 rounded-lg border border-border bg-surface px-3 text-sm outline-none focus-visible:ring-2 focus-visible:ring-ring"
             >
               <option value="">不选择</option>
               {compareCards.map((c) => (
@@ -327,19 +327,17 @@ export function ScriptClient() {
             id="search"
             value={q}
             onChange={(e) => setQ(e.target.value)}
-            placeholder="标题 / 热点"
-            className="h-11 rounded-lg border border-black/10 bg-transparent px-3 text-sm outline-none focus:border-black/30 dark:border-white/10 dark:focus:border-white/30"
+            className="h-11 rounded-lg border border-border bg-surface px-3 text-sm outline-none placeholder:text-foreground/40 focus-visible:ring-2 focus-visible:ring-ring"
           />
         </div>
       </div>
-
-      <div className="text-sm text-foreground/70">共 {filteredDrafts.length} 份草稿</div>
+      <div className="text-sm text-foreground/60">共 {filteredDrafts.length} 份草稿</div>
 
       <div className="grid gap-3">
         {filteredDrafts.map((d) => (
           <div
             key={d.id}
-            className="rounded-xl border border-black/10 p-4 dark:border-white/10"
+            className="rounded-2xl border border-border bg-surface p-4 shadow-[0_1px_0_rgba(15,23,42,0.04)] sm:p-5"
           >
             <div className="flex flex-col gap-2 sm:flex-row sm:items-start sm:justify-between">
               <div className="min-w-0">
@@ -353,14 +351,14 @@ export function ScriptClient() {
                 <button
                   type="button"
                   onClick={() => exportMarkdown(d)}
-                  className="h-9 rounded-lg border border-black/10 px-3 text-xs font-medium hover:bg-black/5 dark:border-white/10 dark:hover:bg-white/10"
+                  className="h-9 rounded-lg border border-border bg-muted px-3 text-xs font-medium hover:bg-muted/70"
                 >
                   导出 MD
                 </button>
                 <button
                   type="button"
                   onClick={() => removeDraft(d.id)}
-                  className="h-9 rounded-lg border border-black/10 px-3 text-xs font-medium hover:bg-black/5 dark:border-white/10 dark:hover:bg-white/10"
+                  className="h-9 rounded-lg border border-border bg-muted px-3 text-xs font-medium hover:bg-muted/70"
                 >
                   删除
                 </button>

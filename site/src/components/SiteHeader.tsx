@@ -2,13 +2,16 @@ import Link from "next/link";
 
 export function SiteHeader() {
   return (
-    <header className="sticky top-0 z-10 border-b border-black/10 bg-background/80 backdrop-blur dark:border-white/10">
-      <div className="mx-auto flex max-w-5xl items-center justify-between px-4 py-3">
-        <Link href="/studio/hot" className="font-semibold tracking-tight">
+    <header className="sticky top-0 z-20 border-b border-border bg-background/70 backdrop-blur">
+      <div className="mx-auto flex h-14 max-w-6xl items-center justify-between px-4">
+        <Link href="/studio/hot" className="font-semibold tracking-tight text-foreground">
           自媒体工作台
         </Link>
-        <nav className="flex items-center gap-4 text-sm text-foreground/80">
-          <Link href="/studio" className="hover:text-foreground">
+        <nav className="flex items-center gap-2 text-sm">
+          <Link
+            href="/studio"
+            className="rounded-lg px-2 py-1 text-foreground/70 hover:bg-muted hover:text-foreground"
+          >
             自媒体工作台
           </Link>
         </nav>

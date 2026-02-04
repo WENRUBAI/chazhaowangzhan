@@ -204,7 +204,7 @@ export function CompareClient() {
     <div className="flex flex-col gap-6">
       {topicTitle.trim() ? (
         <div className="grid gap-3 lg:grid-cols-2">
-          <div className="rounded-xl border border-black/10 p-4 dark:border-white/10">
+          <div className="rounded-2xl border border-border bg-surface p-4 shadow-[0_1px_0_rgba(15,23,42,0.04)] sm:p-5">
             <div className="text-sm font-semibold">推荐对照卡（已有）</div>
             <div className="mt-0.5 text-xs text-foreground/60">
               用热点标题自动匹配你已做过的对照卡，便于复用。
@@ -214,7 +214,7 @@ export function CompareClient() {
                 recommendedCards.map((x) => (
                   <div
                     key={x.card.id}
-                    className="rounded-lg border border-black/10 p-3 text-sm dark:border-white/10"
+                    className="rounded-xl border border-border bg-surface-2 p-3 text-sm"
                   >
                     <div className="flex flex-col gap-2 sm:flex-row sm:items-start sm:justify-between">
                       <div className="min-w-0">
@@ -230,7 +230,7 @@ export function CompareClient() {
                             {x.reason.tokens.slice(0, 6).map((t) => (
                               <span
                                 key={`${x.card.id}:${t}`}
-                                className="rounded-full border border-black/10 px-2 py-0.5 text-xs text-foreground/70 dark:border-white/10"
+                                className="rounded-full border border-border bg-surface px-2 py-0.5 text-xs text-foreground/70"
                               >
                                 {t}
                               </span>
@@ -238,7 +238,7 @@ export function CompareClient() {
                             {x.reason.dimensions.map((d) => (
                               <span
                                 key={`${x.card.id}:${d}`}
-                                className="rounded-full border border-black/10 px-2 py-0.5 text-xs text-foreground/70 dark:border-white/10"
+                                className="rounded-full border border-border bg-surface px-2 py-0.5 text-xs text-foreground/70"
                               >
                                 {d}
                               </span>
@@ -249,7 +249,7 @@ export function CompareClient() {
                       <button
                         type="button"
                         onClick={() => applyCardTemplate(x.card)}
-                        className="h-9 shrink-0 self-start rounded-lg bg-foreground px-3 text-xs font-medium text-background hover:bg-foreground/90"
+                        className="h-9 shrink-0 self-start rounded-lg bg-accent px-3 text-xs font-medium text-accent-foreground hover:bg-accent/90"
                       >
                         套用
                       </button>
@@ -262,7 +262,7 @@ export function CompareClient() {
             </div>
           </div>
 
-          <div className="rounded-xl border border-black/10 p-4 dark:border-white/10">
+          <div className="rounded-2xl border border-border bg-surface p-4 shadow-[0_1px_0_rgba(15,23,42,0.04)] sm:p-5">
             <div className="text-sm font-semibold">推荐材料（sources）</div>
             <div className="mt-0.5 text-xs text-foreground/60">
               从材料库自动匹配资料，一键追加到来源列表。
@@ -272,7 +272,7 @@ export function CompareClient() {
                 recommendedMaterials.map((x) => (
                   <div
                     key={x.material.id}
-                    className="rounded-lg border border-black/10 p-3 text-sm dark:border-white/10"
+                    className="rounded-xl border border-border bg-surface-2 p-3 text-sm"
                   >
                     <div className="flex flex-col gap-2 sm:flex-row sm:items-start sm:justify-between">
                       <div className="min-w-0">
