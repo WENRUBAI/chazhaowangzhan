@@ -1,616 +1,585 @@
 {
   "version": 1,
-  "generatedAt": "2026-04-12T03:59:14.714Z",
+  "generatedAt": "2026-04-13T04:16:35.709Z",
   "items": [
     {
-      "id": "auto_weibo_29095405",
-      "title": "人民之心",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E4%B9%8B%E5%BF%83%23",
+      "id": "auto_weibo_ed5e0c54",
+      "title": "要记得政府前面人民二字",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%A6%81%E8%AE%B0%E5%BE%97%E6%94%BF%E5%BA%9C%E5%89%8D%E9%9D%A2%E4%BA%BA%E6%B0%91%E4%BA%8C%E5%AD%97%23",
       "platform": "weibo",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_weibo_9e58eabd",
-      "title": "野生母狼怀孕后主动到保护站待产",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%87%8E%E7%94%9F%E6%AF%8D%E7%8B%BC%E6%80%80%E5%AD%95%E5%90%8E%E4%B8%BB%E5%8A%A8%E5%88%B0%E4%BF%9D%E6%8A%A4%E7%AB%99%E5%BE%85%E4%BA%A7%23",
+      "id": "auto_weibo_6454de3e",
+      "title": "9岁男孩偷偷给爷爷带肉当地已介入",
+      "url": "https://s.weibo.com/weibo?q=%239%E5%B2%81%E7%94%B7%E5%AD%A9%E5%81%B7%E5%81%B7%E7%BB%99%E7%88%B7%E7%88%B7%E5%B8%A6%E8%82%89%E5%BD%93%E5%9C%B0%E5%B7%B2%E4%BB%8B%E5%85%A5%23",
       "platform": "weibo",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_weibo_bf26b18f",
-      "title": "心愿便利贴 万通筋骨贴",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BF%83%E6%84%BF%E4%BE%BF%E5%88%A9%E8%B4%B4%20%E4%B8%87%E9%80%9A%E7%AD%8B%E9%AA%A8%E8%B4%B4%23",
-      "platform": "weibo",
-      "keywords": [
-        "新"
-      ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
-      "source": "weibo_hotSearch"
-    },
-    {
-      "id": "auto_douyin_8cc27a0e",
-      "title": "人生中第一场演唱会是苏超给的",
-      "url": "https://www.douyin.com/search/%E4%BA%BA%E7%94%9F%E4%B8%AD%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E6%98%AF%E8%8B%8F%E8%B6%85%E7%BB%99%E7%9A%84",
-      "platform": "douyin",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
-      "source": "douyin_hotsearch"
-    },
-    {
-      "id": "auto_douyin_3a4aebf7",
-      "title": "后来我的青春成为了别人的考题",
-      "url": "https://www.douyin.com/search/%E5%90%8E%E6%9D%A5%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E6%88%90%E4%B8%BA%E4%BA%86%E5%88%AB%E4%BA%BA%E7%9A%84%E8%80%83%E9%A2%98",
-      "platform": "douyin",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
-      "source": "douyin_hotsearch"
-    },
-    {
-      "id": "auto_douyin_677a5b55",
-      "title": "氢能产业加速打开万亿新空间",
-      "url": "https://www.douyin.com/search/%E6%B0%A2%E8%83%BD%E4%BA%A7%E4%B8%9A%E5%8A%A0%E9%80%9F%E6%89%93%E5%BC%80%E4%B8%87%E4%BA%BF%E6%96%B0%E7%A9%BA%E9%97%B4",
-      "platform": "douyin",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
-      "source": "douyin_hotsearch"
-    },
-    {
-      "id": "auto_bilibili_492f482a",
-      "title": "中美乒乓外交55周年",
-      "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E4%B9%92%E4%B9%93%E5%A4%96%E4%BA%A455%E5%91%A8%E5%B9%B4",
-      "platform": "bilibili",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
-      "source": "bilibili_trending_ranking"
-    },
-    {
-      "id": "auto_bilibili_48d0fffc",
-      "title": "秦牧",
-      "url": "https://search.bilibili.com/all?keyword=%E7%A7%A6%E7%89%A7",
-      "platform": "bilibili",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
-      "source": "bilibili_trending_ranking"
-    },
-    {
-      "id": "auto_bilibili_eac5d2fd",
-      "title": "锐评TES战胜JDG",
-      "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84TES%E6%88%98%E8%83%9CJDG",
-      "platform": "bilibili",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
-      "source": "bilibili_trending_ranking"
-    },
-    {
-      "id": "auto_weibo_c1ef6fdc",
-      "title": "中国船舶出品真的一屏放不下",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%B9%E8%88%B6%E5%87%BA%E5%93%81%E7%9C%9F%E7%9A%84%E4%B8%80%E5%B1%8F%E6%94%BE%E4%B8%8D%E4%B8%8B%23",
-      "platform": "weibo",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
-      "source": "weibo_hotSearch"
-    },
-    {
-      "id": "auto_weibo_416658ec",
-      "title": "胡先煦十日终焉被曝1天杀青",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E8%A2%AB%E6%9B%9D1%E5%A4%A9%E6%9D%80%E9%9D%92%23",
+      "id": "auto_weibo_5d7066c8",
+      "title": "比亚迪财务总监年薪1013万元",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%B4%A2%E5%8A%A1%E6%80%BB%E7%9B%91%E5%B9%B4%E8%96%AA1013%E4%B8%87%E5%85%83%23",
       "platform": "weibo",
       "keywords": [
         "新"
       ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_weibo_7b35e34",
-      "title": "美向伊朗提出最终方案",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%90%91%E4%BC%8A%E6%9C%97%E6%8F%90%E5%87%BA%E6%9C%80%E7%BB%88%E6%96%B9%E6%A1%88%23",
+      "id": "auto_douyin_a63ded64",
+      "title": "阿联酋阿布扎比王储哈立德访华",
+      "url": "https://www.douyin.com/search/%E9%98%BF%E8%81%94%E9%85%8B%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E7%8E%8B%E5%82%A8%E5%93%88%E7%AB%8B%E5%BE%B7%E8%AE%BF%E5%8D%8E",
+      "platform": "douyin",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:32.979Z",
+      "source": "douyin_hotsearch"
+    },
+    {
+      "id": "auto_douyin_15404902",
+      "title": "穿漂亮的裙子去有风的地方",
+      "url": "https://www.douyin.com/search/%E7%A9%BF%E6%BC%82%E4%BA%AE%E7%9A%84%E8%A3%99%E5%AD%90%E5%8E%BB%E6%9C%89%E9%A3%8E%E7%9A%84%E5%9C%B0%E6%96%B9",
+      "platform": "douyin",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:32.979Z",
+      "source": "douyin_hotsearch"
+    },
+    {
+      "id": "auto_douyin_f34c7959",
+      "title": "新渝万高铁正线56座隧道全部贯通",
+      "url": "https://www.douyin.com/search/%E6%96%B0%E6%B8%9D%E4%B8%87%E9%AB%98%E9%93%81%E6%AD%A3%E7%BA%BF56%E5%BA%A7%E9%9A%A7%E9%81%93%E5%85%A8%E9%83%A8%E8%B4%AF%E9%80%9A",
+      "platform": "douyin",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:32.979Z",
+      "source": "douyin_hotsearch"
+    },
+    {
+      "id": "auto_bilibili_7514deac",
+      "title": "真实锐评BLG战胜WBG",
+      "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84BLG%E6%88%98%E8%83%9CWBG",
+      "platform": "bilibili",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:33.525Z",
+      "source": "bilibili_trending_ranking"
+    },
+    {
+      "id": "auto_bilibili_68453dc7",
+      "title": "如何看待karrigan或将转会猎鹰",
+      "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85karrigan%E6%88%96%E5%B0%86%E8%BD%AC%E4%BC%9A%E7%8C%8E%E9%B9%B0",
+      "platform": "bilibili",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:33.525Z",
+      "source": "bilibili_trending_ranking"
+    },
+    {
+      "id": "auto_bilibili_9154c064",
+      "title": "国产核药新突破",
+      "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E6%A0%B8%E8%8D%AF%E6%96%B0%E7%AA%81%E7%A0%B4",
+      "platform": "bilibili",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:33.525Z",
+      "source": "bilibili_trending_ranking"
+    },
+    {
+      "id": "auto_weibo_3727d1c2",
+      "title": "中国经济开门红成色十足",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%BC%80%E9%97%A8%E7%BA%A2%E6%88%90%E8%89%B2%E5%8D%81%E8%B6%B3%23",
       "platform": "weibo",
       "keywords": [
         "新"
       ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_weibo_53e9db27",
-      "title": "谢娜成都演唱会票价",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%88%90%E9%83%BD%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E4%BB%B7%23",
-      "platform": "weibo",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
-      "source": "weibo_hotSearch"
-    },
-    {
-      "id": "auto_weibo_83d36832",
-      "title": "不要穿浅色去做妆造",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E7%A9%BF%E6%B5%85%E8%89%B2%E5%8E%BB%E5%81%9A%E5%A6%86%E9%80%A0%23",
+      "id": "auto_weibo_fc1d048d",
+      "title": "陈赫 短剧",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%20%E7%9F%AD%E5%89%A7%23",
       "platform": "weibo",
       "keywords": [
         "新"
       ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_weibo_3cd25060",
-      "title": "奥迪逃单加油站员工垫付4天工资",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%AA%E9%80%83%E5%8D%95%E5%8A%A0%E6%B2%B9%E7%AB%99%E5%91%98%E5%B7%A5%E5%9E%AB%E4%BB%984%E5%A4%A9%E5%B7%A5%E8%B5%84%23",
+      "id": "auto_weibo_9cdbcb45",
+      "title": "特朗普称今晚10点封锁伊朗",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BB%8A%E6%99%9A10%E7%82%B9%E5%B0%81%E9%94%81%E4%BC%8A%E6%9C%97%23",
       "platform": "weibo",
       "keywords": [
         "新"
       ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_weibo_5350a643",
-      "title": "莫氏鸡煲老板原本是中医",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%B0%8F%E9%B8%A1%E7%85%B2%E8%80%81%E6%9D%BF%E5%8E%9F%E6%9C%AC%E6%98%AF%E4%B8%AD%E5%8C%BB%23",
+      "id": "auto_weibo_e7779466",
+      "title": "美将封锁霍尔木兹海峡",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%B0%86%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%23",
       "platform": "weibo",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_douyin_da5fc191",
-      "title": "一张图证明你是养宠人",
-      "url": "https://www.douyin.com/search/%E4%B8%80%E5%BC%A0%E5%9B%BE%E8%AF%81%E6%98%8E%E4%BD%A0%E6%98%AF%E5%85%BB%E5%AE%A0%E4%BA%BA",
-      "platform": "douyin",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
-      "source": "douyin_hotsearch"
-    },
-    {
-      "id": "auto_weibo_2f221c75",
-      "title": "宇树机器人百米冲刺10米每秒",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%99%BE%E7%B1%B3%E5%86%B2%E5%88%BA10%E7%B1%B3%E6%AF%8F%E7%A7%92%23",
+      "id": "auto_weibo_2f5270c2",
+      "title": "鹤壁淇县浚县鹤山撤县设区为谣言",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%B9%A4%E5%A3%81%E6%B7%87%E5%8E%BF%E6%B5%9A%E5%8E%BF%E9%B9%A4%E5%B1%B1%E6%92%A4%E5%8E%BF%E8%AE%BE%E5%8C%BA%E4%B8%BA%E8%B0%A3%E8%A8%80%23",
       "platform": "weibo",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_douyin_29022dd9",
-      "title": "十项促进两岸交流合作措施发布",
-      "url": "https://www.douyin.com/search/%E5%8D%81%E9%A1%B9%E4%BF%83%E8%BF%9B%E4%B8%A4%E5%B2%B8%E4%BA%A4%E6%B5%81%E5%90%88%E4%BD%9C%E6%8E%AA%E6%96%BD%E5%8F%91%E5%B8%83",
-      "platform": "douyin",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
-      "source": "douyin_hotsearch"
-    },
-    {
-      "id": "auto_weibo_54f4e8cd",
-      "title": "孙怡阚清子直播零互动",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E9%98%9A%E6%B8%85%E5%AD%90%E7%9B%B4%E6%92%AD%E9%9B%B6%E4%BA%92%E5%8A%A8%23",
-      "platform": "weibo",
-      "keywords": [
-        "热"
-      ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
-      "source": "weibo_hotSearch"
-    },
-    {
-      "id": "auto_douyin_6b2a4def",
-      "title": "2026苏超开赛",
-      "url": "https://www.douyin.com/search/2026%E8%8B%8F%E8%B6%85%E5%BC%80%E8%B5%9B",
-      "platform": "douyin",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
-      "source": "douyin_hotsearch"
-    },
-    {
-      "id": "auto_weibo_7d6e5138",
-      "title": "孟子义突发身体不适",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E7%AA%81%E5%8F%91%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%23",
+      "id": "auto_weibo_229d56fc",
+      "title": "女子单独坐过夜火车被乘警拉进群",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8D%95%E7%8B%AC%E5%9D%90%E8%BF%87%E5%A4%9C%E7%81%AB%E8%BD%A6%E8%A2%AB%E4%B9%98%E8%AD%A6%E6%8B%89%E8%BF%9B%E7%BE%A4%23",
       "platform": "weibo",
       "keywords": [
         "新"
       ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_douyin_72327541",
-      "title": "泼水节才是放飞自我的最佳时刻",
-      "url": "https://www.douyin.com/search/%E6%B3%BC%E6%B0%B4%E8%8A%82%E6%89%8D%E6%98%AF%E6%94%BE%E9%A3%9E%E8%87%AA%E6%88%91%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E5%88%BB",
-      "platform": "douyin",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
-      "source": "douyin_hotsearch"
-    },
-    {
-      "id": "auto_weibo_e9655b5b",
-      "title": "女孩追星被骗爸爸受伤家有4个孩子",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%BF%BD%E6%98%9F%E8%A2%AB%E9%AA%97%E7%88%B8%E7%88%B8%E5%8F%97%E4%BC%A4%E5%AE%B6%E6%9C%894%E4%B8%AA%E5%AD%A9%E5%AD%90%23",
-      "platform": "weibo",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
-      "source": "weibo_hotSearch"
-    },
-    {
-      "id": "auto_douyin_53990e56",
-      "title": "伊美伊斯兰堡谈判结束",
-      "url": "https://www.douyin.com/search/%E4%BC%8A%E7%BE%8E%E4%BC%8A%E6%96%AF%E5%85%B0%E5%A0%A1%E8%B0%88%E5%88%A4%E7%BB%93%E6%9D%9F",
-      "platform": "douyin",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
-      "source": "douyin_hotsearch"
-    },
-    {
-      "id": "auto_weibo_3f2261d4",
-      "title": "王濛 色令智昏",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%20%E8%89%B2%E4%BB%A4%E6%99%BA%E6%98%8F%23",
+      "id": "auto_weibo_f940d2d0",
+      "title": "李小冉 北舞已经是上个世纪的事了",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%20%E5%8C%97%E8%88%9E%E5%B7%B2%E7%BB%8F%E6%98%AF%E4%B8%8A%E4%B8%AA%E4%B8%96%E7%BA%AA%E7%9A%84%E4%BA%8B%E4%BA%86%23",
       "platform": "weibo",
       "keywords": [
         "新"
       ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_douyin_eb900c6c",
-      "title": "捷龙三号运载火箭发射成功",
-      "url": "https://www.douyin.com/search/%E6%8D%B7%E9%BE%99%E4%B8%89%E5%8F%B7%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F",
+      "id": "auto_douyin_8c864846",
+      "title": "欧尔班承认败选",
+      "url": "https://www.douyin.com/search/%E6%AC%A7%E5%B0%94%E7%8F%AD%E6%89%BF%E8%AE%A4%E8%B4%A5%E9%80%89",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_weibo_aae5dfa5",
-      "title": "以军袭击致黎巴嫩2020人死6436人伤",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E8%A2%AD%E5%87%BB%E8%87%B4%E9%BB%8E%E5%B7%B4%E5%AB%A92020%E4%BA%BA%E6%AD%BB6436%E4%BA%BA%E4%BC%A4%23",
-      "platform": "weibo",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
-      "source": "weibo_hotSearch"
-    },
-    {
-      "id": "auto_douyin_a0324453",
-      "title": "常州队今年守住了笔画",
-      "url": "https://www.douyin.com/search/%E5%B8%B8%E5%B7%9E%E9%98%9F%E4%BB%8A%E5%B9%B4%E5%AE%88%E4%BD%8F%E4%BA%86%E7%AC%94%E7%94%BB",
-      "platform": "douyin",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
-      "source": "douyin_hotsearch"
-    },
-    {
-      "id": "auto_weibo_5092cf81",
-      "title": "大英赛",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%8B%B1%E8%B5%9B%23",
+      "id": "auto_weibo_41a2a1f9",
+      "title": "逐玉庆功宴",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%80%90%E7%8E%89%E5%BA%86%E5%8A%9F%E5%AE%B4%23",
       "platform": "weibo",
       "keywords": [
         "新"
       ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_douyin_e2ad662c",
-      "title": "先心病患者无法长寿吗",
-      "url": "https://www.douyin.com/search/%E5%85%88%E5%BF%83%E7%97%85%E6%82%A3%E8%80%85%E6%97%A0%E6%B3%95%E9%95%BF%E5%AF%BF%E5%90%97",
+      "id": "auto_douyin_647754c4",
+      "title": "万般美好都不及正当季的云南",
+      "url": "https://www.douyin.com/search/%E4%B8%87%E8%88%AC%E7%BE%8E%E5%A5%BD%E9%83%BD%E4%B8%8D%E5%8F%8A%E6%AD%A3%E5%BD%93%E5%AD%A3%E7%9A%84%E4%BA%91%E5%8D%97",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_weibo_967a14e8",
-      "title": "芒果 改口癖",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%20%E6%94%B9%E5%8F%A3%E7%99%96%23",
-      "platform": "weibo",
-      "keywords": [
-        "热"
-      ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
-      "source": "weibo_hotSearch"
-    },
-    {
-      "id": "auto_douyin_ab8af1ce",
-      "title": "北京半马",
-      "url": "https://www.douyin.com/search/%E5%8C%97%E4%BA%AC%E5%8D%8A%E9%A9%AC",
-      "platform": "douyin",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
-      "source": "douyin_hotsearch"
-    },
-    {
-      "id": "auto_weibo_ae9ecaf4",
-      "title": "LPL和LCK变天了",
-      "url": "https://s.weibo.com/weibo?q=%23LPL%E5%92%8CLCK%E5%8F%98%E5%A4%A9%E4%BA%86%23",
-      "platform": "weibo",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
-      "source": "weibo_hotSearch"
-    },
-    {
-      "id": "auto_douyin_4b9c2853",
-      "title": "春天就要出去野",
-      "url": "https://www.douyin.com/search/%E6%98%A5%E5%A4%A9%E5%B0%B1%E8%A6%81%E5%87%BA%E5%8E%BB%E9%87%8E",
-      "platform": "douyin",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
-      "source": "douyin_hotsearch"
-    },
-    {
-      "id": "auto_weibo_ce1b766c",
-      "title": "采茶女",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%87%87%E8%8C%B6%E5%A5%B3%23",
+      "id": "auto_weibo_fdec0097",
+      "title": "华为PuraXMax",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAPuraXMax%23",
       "platform": "weibo",
       "keywords": [
         "新"
       ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_douyin_c68709f3",
-      "title": "水豚噜噜抖音小火人联动",
-      "url": "https://www.douyin.com/search/%E6%B0%B4%E8%B1%9A%E5%99%9C%E5%99%9C%E6%8A%96%E9%9F%B3%E5%B0%8F%E7%81%AB%E4%BA%BA%E8%81%94%E5%8A%A8",
+      "id": "auto_douyin_35d0111a",
+      "title": "人形机器人半马完成全流程测试",
+      "url": "https://www.douyin.com/search/%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8A%E9%A9%AC%E5%AE%8C%E6%88%90%E5%85%A8%E6%B5%81%E7%A8%8B%E6%B5%8B%E8%AF%95",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_weibo_9c8fc8e8",
-      "title": "女子1天爬2次华山收到景区问候",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%901%E5%A4%A9%E7%88%AC2%E6%AC%A1%E5%8D%8E%E5%B1%B1%E6%94%B6%E5%88%B0%E6%99%AF%E5%8C%BA%E9%97%AE%E5%80%99%23",
-      "platform": "weibo",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
-      "source": "weibo_hotSearch"
-    },
-    {
-      "id": "auto_douyin_526379cd",
-      "title": "全抖音都在问广西三月三怎么玩",
-      "url": "https://www.douyin.com/search/%E5%85%A8%E6%8A%96%E9%9F%B3%E9%83%BD%E5%9C%A8%E9%97%AE%E5%B9%BF%E8%A5%BF%E4%B8%89%E6%9C%88%E4%B8%89%E6%80%8E%E4%B9%88%E7%8E%A9",
-      "platform": "douyin",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
-      "source": "douyin_hotsearch"
-    },
-    {
-      "id": "auto_weibo_a947c3a",
-      "title": "浪姐 剧本",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%20%E5%89%A7%E6%9C%AC%23",
-      "platform": "weibo",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
-      "source": "weibo_hotSearch"
-    },
-    {
-      "id": "auto_douyin_d4be8218",
-      "title": "4月21日24时油价预计下调",
-      "url": "https://www.douyin.com/search/4%E6%9C%8821%E6%97%A524%E6%97%B6%E6%B2%B9%E4%BB%B7%E9%A2%84%E8%AE%A1%E4%B8%8B%E8%B0%83",
-      "platform": "douyin",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
-      "source": "douyin_hotsearch"
-    },
-    {
-      "id": "auto_bilibili_abfa797e",
-      "title": "阿森纳球迷心理状态",
-      "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A3%AE%E7%BA%B3%E7%90%83%E8%BF%B7%E5%BF%83%E7%90%86%E7%8A%B6%E6%80%81",
-      "platform": "bilibili",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
-      "source": "bilibili_trending_ranking"
-    },
-    {
-      "id": "auto_weibo_98589343",
-      "title": "高三学生学习困难去医院测出智障",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E5%AD%A6%E4%B9%A0%E5%9B%B0%E9%9A%BE%E5%8E%BB%E5%8C%BB%E9%99%A2%E6%B5%8B%E5%87%BA%E6%99%BA%E9%9A%9C%23",
+      "id": "auto_weibo_e699b0a6",
+      "title": "文章上海面馆价格",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E7%AB%A0%E4%B8%8A%E6%B5%B7%E9%9D%A2%E9%A6%86%E4%BB%B7%E6%A0%BC%23",
       "platform": "weibo",
       "keywords": [
         "新"
       ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_douyin_6efb7599",
-      "title": "乘风2026一公第二场",
-      "url": "https://www.douyin.com/search/%E4%B9%98%E9%A3%8E2026%E4%B8%80%E5%85%AC%E7%AC%AC%E4%BA%8C%E5%9C%BA",
+      "id": "auto_douyin_d3a0a231",
+      "title": "香港演员郑雷去世",
+      "url": "https://www.douyin.com/search/%E9%A6%99%E6%B8%AF%E6%BC%94%E5%91%98%E9%83%91%E9%9B%B7%E5%8E%BB%E4%B8%96",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_bilibili_ba307ae7",
-      "title": "UP主足球队出战马尔基西奥",
-      "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%B6%B3%E7%90%83%E9%98%9F%E5%87%BA%E6%88%98%E9%A9%AC%E5%B0%94%E5%9F%BA%E8%A5%BF%E5%A5%A5",
-      "platform": "bilibili",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
-      "source": "bilibili_trending_ranking"
-    },
-    {
-      "id": "auto_weibo_dadb9be4",
-      "title": "曾沛慈对王濛贴脸开大",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BE%E6%B2%9B%E6%85%88%E5%AF%B9%E7%8E%8B%E6%BF%9B%E8%B4%B4%E8%84%B8%E5%BC%80%E5%A4%A7%23",
+      "id": "auto_weibo_4c519395",
+      "title": "何猷君晒与何超蕸合照",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%E6%99%92%E4%B8%8E%E4%BD%95%E8%B6%85%E8%95%B8%E5%90%88%E7%85%A7%23",
       "platform": "weibo",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_douyin_bede1924",
-      "title": "李荣浩太原演唱会",
-      "url": "https://www.douyin.com/search/%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%A4%AA%E5%8E%9F%E6%BC%94%E5%94%B1%E4%BC%9A",
+      "id": "auto_douyin_bd19b028",
+      "title": "“营养点滴”是黑科技还是新套路",
+      "url": "https://www.douyin.com/search/%E2%80%9C%E8%90%A5%E5%85%BB%E7%82%B9%E6%BB%B4%E2%80%9D%E6%98%AF%E9%BB%91%E7%A7%91%E6%8A%80%E8%BF%98%E6%98%AF%E6%96%B0%E5%A5%97%E8%B7%AF",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_bilibili_d19ee988",
-      "title": "美伊谈判仍存严重分歧",
-      "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E4%BB%8D%E5%AD%98%E4%B8%A5%E9%87%8D%E5%88%86%E6%AD%A7",
-      "platform": "bilibili",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
-      "source": "bilibili_trending_ranking"
-    },
-    {
-      "id": "auto_weibo_d89d7e75",
-      "title": "鹿晗卖家秀邓超买家秀",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%8D%96%E5%AE%B6%E7%A7%80%E9%82%93%E8%B6%85%E4%B9%B0%E5%AE%B6%E7%A7%80%23",
+      "id": "auto_weibo_23215318",
+      "title": "张凌赫逐玉庆功宴路透",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E9%80%90%E7%8E%89%E5%BA%86%E5%8A%9F%E5%AE%B4%E8%B7%AF%E9%80%8F%23",
       "platform": "weibo",
       "keywords": [
         "新"
       ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_douyin_6e813267",
-      "title": "爱情鸟舞蹈挑战",
-      "url": "https://www.douyin.com/search/%E7%88%B1%E6%83%85%E9%B8%9F%E8%88%9E%E8%B9%88%E6%8C%91%E6%88%98",
+      "id": "auto_douyin_21d0cb30",
+      "title": "北京国安1:2成都蓉城",
+      "url": "https://www.douyin.com/search/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%891%3A2%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_bilibili_61a0614e",
-      "title": "华强买瓜但是量子力学",
-      "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E5%BC%BA%E4%B9%B0%E7%93%9C%E4%BD%86%E6%98%AF%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6",
-      "platform": "bilibili",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
-      "source": "bilibili_trending_ranking"
+      "id": "auto_weibo_ee1c9dea",
+      "title": "产妇遭医院擅自二次开腹致女儿脑瘫",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BA%A7%E5%A6%87%E9%81%AD%E5%8C%BB%E9%99%A2%E6%93%85%E8%87%AA%E4%BA%8C%E6%AC%A1%E5%BC%80%E8%85%B9%E8%87%B4%E5%A5%B3%E5%84%BF%E8%84%91%E7%98%AB%23",
+      "platform": "weibo",
+      "keywords": [
+        "新"
+      ],
+      "collectedAt": "2026-04-13T04:16:31.199Z",
+      "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_weibo_cbd36de9",
-      "title": "伊朗通报谈判进展",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%80%9A%E6%8A%A5%E8%B0%88%E5%88%A4%E8%BF%9B%E5%B1%95%23",
+      "id": "auto_douyin_7e78a265",
+      "title": "切尔西0:3曼城",
+      "url": "https://www.douyin.com/search/%E5%88%87%E5%B0%94%E8%A5%BF0%3A3%E6%9B%BC%E5%9F%8E",
+      "platform": "douyin",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:32.979Z",
+      "source": "douyin_hotsearch"
+    },
+    {
+      "id": "auto_weibo_37d9e024",
+      "title": "霍思燕最争气的是她自己",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%9C%8D%E6%80%9D%E7%87%95%E6%9C%80%E4%BA%89%E6%B0%94%E7%9A%84%E6%98%AF%E5%A5%B9%E8%87%AA%E5%B7%B1%23",
       "platform": "weibo",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_douyin_192960dd",
-      "title": "谢娜官宣个人首场演唱会",
-      "url": "https://www.douyin.com/search/%E8%B0%A2%E5%A8%9C%E5%AE%98%E5%AE%A3%E4%B8%AA%E4%BA%BA%E9%A6%96%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A",
+      "id": "auto_douyin_b1dbc5a4",
+      "title": "建群辱骂离世女孩群主被拘9日",
+      "url": "https://www.douyin.com/search/%E5%BB%BA%E7%BE%A4%E8%BE%B1%E9%AA%82%E7%A6%BB%E4%B8%96%E5%A5%B3%E5%AD%A9%E7%BE%A4%E4%B8%BB%E8%A2%AB%E6%8B%989%E6%97%A5",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_bilibili_3951ba2d",
-      "title": "锐评DK零封GEN",
-      "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84DK%E9%9B%B6%E5%B0%81GEN",
+      "id": "auto_weibo_e9ba259f",
+      "title": "灯花笑 田曦薇",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%81%AF%E8%8A%B1%E7%AC%91%20%E7%94%B0%E6%9B%A6%E8%96%87%23",
+      "platform": "weibo",
+      "keywords": [
+        "新"
+      ],
+      "collectedAt": "2026-04-13T04:16:31.199Z",
+      "source": "weibo_hotSearch"
+    },
+    {
+      "id": "auto_douyin_c9683862",
+      "title": "一诺首次公开AG超玩会宿舍",
+      "url": "https://www.douyin.com/search/%E4%B8%80%E8%AF%BA%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80AG%E8%B6%85%E7%8E%A9%E4%BC%9A%E5%AE%BF%E8%88%8D",
+      "platform": "douyin",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:32.979Z",
+      "source": "douyin_hotsearch"
+    },
+    {
+      "id": "auto_weibo_b5a6e2a6",
+      "title": "61岁男子手术后在飞机上身亡",
+      "url": "https://s.weibo.com/weibo?q=%2361%E5%B2%81%E7%94%B7%E5%AD%90%E6%89%8B%E6%9C%AF%E5%90%8E%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E8%BA%AB%E4%BA%A1%23",
+      "platform": "weibo",
+      "keywords": [
+        "新"
+      ],
+      "collectedAt": "2026-04-13T04:16:31.199Z",
+      "source": "weibo_hotSearch"
+    },
+    {
+      "id": "auto_douyin_cf84ea2a",
+      "title": "拍手变装",
+      "url": "https://www.douyin.com/search/%E6%8B%8D%E6%89%8B%E5%8F%98%E8%A3%85",
+      "platform": "douyin",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:32.979Z",
+      "source": "douyin_hotsearch"
+    },
+    {
+      "id": "auto_weibo_d4e1bc8c",
+      "title": "乌兰被双开",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%B0%E8%A2%AB%E5%8F%8C%E5%BC%80%23",
+      "platform": "weibo",
+      "keywords": [
+        "新"
+      ],
+      "collectedAt": "2026-04-13T04:16:31.199Z",
+      "source": "weibo_hotSearch"
+    },
+    {
+      "id": "auto_douyin_916e1da3",
+      "title": "刘大悦痛失无限超越班邀约",
+      "url": "https://www.douyin.com/search/%E5%88%98%E5%A4%A7%E6%82%A6%E7%97%9B%E5%A4%B1%E6%97%A0%E9%99%90%E8%B6%85%E8%B6%8A%E7%8F%AD%E9%82%80%E7%BA%A6",
+      "platform": "douyin",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:32.979Z",
+      "source": "douyin_hotsearch"
+    },
+    {
+      "id": "auto_weibo_ad4a492f",
+      "title": "超级巨星孙颖莎",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%B6%85%E7%BA%A7%E5%B7%A8%E6%98%9F%E5%AD%99%E9%A2%96%E8%8E%8E%23",
+      "platform": "weibo",
+      "keywords": [
+        "新"
+      ],
+      "collectedAt": "2026-04-13T04:16:31.199Z",
+      "source": "weibo_hotSearch"
+    },
+    {
+      "id": "auto_douyin_7fa87ca6",
+      "title": "乘风2026一公观后感",
+      "url": "https://www.douyin.com/search/%E4%B9%98%E9%A3%8E2026%E4%B8%80%E5%85%AC%E8%A7%82%E5%90%8E%E6%84%9F",
+      "platform": "douyin",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:32.979Z",
+      "source": "douyin_hotsearch"
+    },
+    {
+      "id": "auto_weibo_cb64984e",
+      "title": "孙红雷刘宇宁王玉雯主演铁证",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%BA%A2%E9%9B%B7%E5%88%98%E5%AE%87%E5%AE%81%E7%8E%8B%E7%8E%89%E9%9B%AF%E4%B8%BB%E6%BC%94%E9%93%81%E8%AF%81%23",
+      "platform": "weibo",
+      "keywords": [
+        "新"
+      ],
+      "collectedAt": "2026-04-13T04:16:31.199Z",
+      "source": "weibo_hotSearch"
+    },
+    {
+      "id": "auto_douyin_24dc2904",
+      "title": "她的眼里没有胜负只有心疼",
+      "url": "https://www.douyin.com/search/%E5%A5%B9%E7%9A%84%E7%9C%BC%E9%87%8C%E6%B2%A1%E6%9C%89%E8%83%9C%E8%B4%9F%E5%8F%AA%E6%9C%89%E5%BF%83%E7%96%BC",
+      "platform": "douyin",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:32.979Z",
+      "source": "douyin_hotsearch"
+    },
+    {
+      "id": "auto_bilibili_ef524e73",
+      "title": "热刺连续14场英超不胜",
+      "url": "https://search.bilibili.com/all?keyword=%E7%83%AD%E5%88%BA%E8%BF%9E%E7%BB%AD14%E5%9C%BA%E8%8B%B1%E8%B6%85%E4%B8%8D%E8%83%9C",
       "platform": "bilibili",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
+      "collectedAt": "2026-04-13T04:16:33.525Z",
       "source": "bilibili_trending_ranking"
     },
     {
-      "id": "auto_weibo_fd2e6edc",
-      "title": "张凌赫肖战待播剧角色热度前三",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%82%96%E6%88%98%E5%BE%85%E6%92%AD%E5%89%A7%E8%A7%92%E8%89%B2%E7%83%AD%E5%BA%A6%E5%89%8D%E4%B8%89%23",
+      "id": "auto_weibo_de984fa6",
+      "title": "华为大阔折太阔了",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%A4%A7%E9%98%94%E6%8A%98%E5%A4%AA%E9%98%94%E4%BA%86%23",
+      "platform": "weibo",
+      "keywords": [
+        "新"
+      ],
+      "collectedAt": "2026-04-13T04:16:31.199Z",
+      "source": "weibo_hotSearch"
+    },
+    {
+      "id": "auto_douyin_dbd95da6",
+      "title": "苏超的球迷有多热情",
+      "url": "https://www.douyin.com/search/%E8%8B%8F%E8%B6%85%E7%9A%84%E7%90%83%E8%BF%B7%E6%9C%89%E5%A4%9A%E7%83%AD%E6%83%85",
+      "platform": "douyin",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:32.979Z",
+      "source": "douyin_hotsearch"
+    },
+    {
+      "id": "auto_bilibili_9c769b0",
+      "title": "华强买瓜但是多动症",
+      "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E5%BC%BA%E4%B9%B0%E7%93%9C%E4%BD%86%E6%98%AF%E5%A4%9A%E5%8A%A8%E7%97%87",
+      "platform": "bilibili",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:33.525Z",
+      "source": "bilibili_trending_ranking"
+    },
+    {
+      "id": "auto_weibo_244e52c2",
+      "title": "kimi都这么大了",
+      "url": "https://s.weibo.com/weibo?q=%23kimi%E9%83%BD%E8%BF%99%E4%B9%88%E5%A4%A7%E4%BA%86%23",
+      "platform": "weibo",
+      "keywords": [
+        "新"
+      ],
+      "collectedAt": "2026-04-13T04:16:31.199Z",
+      "source": "weibo_hotSearch"
+    },
+    {
+      "id": "auto_douyin_57889be8",
+      "title": "我独爱平凡的照片",
+      "url": "https://www.douyin.com/search/%E6%88%91%E7%8B%AC%E7%88%B1%E5%B9%B3%E5%87%A1%E7%9A%84%E7%85%A7%E7%89%87",
+      "platform": "douyin",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:32.979Z",
+      "source": "douyin_hotsearch"
+    },
+    {
+      "id": "auto_bilibili_c97f858f",
+      "title": "伊朗公布驱离美军舰视频",
+      "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E9%A9%B1%E7%A6%BB%E7%BE%8E%E5%86%9B%E8%88%B0%E8%A7%86%E9%A2%91",
+      "platform": "bilibili",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:33.525Z",
+      "source": "bilibili_trending_ranking"
+    },
+    {
+      "id": "auto_weibo_3e113640",
+      "title": "曝浪姐二公赛制",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%B5%AA%E5%A7%90%E4%BA%8C%E5%85%AC%E8%B5%9B%E5%88%B6%23",
+      "platform": "weibo",
+      "keywords": [
+        "新"
+      ],
+      "collectedAt": "2026-04-13T04:16:31.199Z",
+      "source": "weibo_hotSearch"
+    },
+    {
+      "id": "auto_douyin_7e9b3590",
+      "title": "常州暂时改名常洲",
+      "url": "https://www.douyin.com/search/%E5%B8%B8%E5%B7%9E%E6%9A%82%E6%97%B6%E6%94%B9%E5%90%8D%E5%B8%B8%E6%B4%B2",
+      "platform": "douyin",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:32.979Z",
+      "source": "douyin_hotsearch"
+    },
+    {
+      "id": "auto_bilibili_116b8cd3",
+      "title": "特朗普称今晚10点封锁伊朗",
+      "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BB%8A%E6%99%9A10%E7%82%B9%E5%B0%81%E9%94%81%E4%BC%8A%E6%9C%97",
+      "platform": "bilibili",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:33.525Z",
+      "source": "bilibili_trending_ranking"
+    },
+    {
+      "id": "auto_weibo_d78b95b0",
+      "title": "伊朗曝美方要均分霍尔木兹收益",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9B%9D%E7%BE%8E%E6%96%B9%E8%A6%81%E5%9D%87%E5%88%86%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%94%B6%E7%9B%8A%23",
       "platform": "weibo",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_douyin_4f7c494",
-      "title": "就是想告诉你我去看苏超了",
-      "url": "https://www.douyin.com/search/%E5%B0%B1%E6%98%AF%E6%83%B3%E5%91%8A%E8%AF%89%E4%BD%A0%E6%88%91%E5%8E%BB%E7%9C%8B%E8%8B%8F%E8%B6%85%E4%BA%86",
+      "id": "auto_douyin_14b02150",
+      "title": "十年前的番vs十年后的番",
+      "url": "https://www.douyin.com/search/%E5%8D%81%E5%B9%B4%E5%89%8D%E7%9A%84%E7%95%AAvs%E5%8D%81%E5%B9%B4%E5%90%8E%E7%9A%84%E7%95%AA",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_bilibili_3618f64c",
-      "title": "80000字解读孙俪悬疑新剧",
-      "url": "https://search.bilibili.com/all?keyword=80000%E5%AD%97%E8%A7%A3%E8%AF%BB%E5%AD%99%E4%BF%AA%E6%82%AC%E7%96%91%E6%96%B0%E5%89%A7",
+      "id": "auto_bilibili_20912bcf",
+      "title": "现场看苏超开幕式什么体验",
+      "url": "https://search.bilibili.com/all?keyword=%E7%8E%B0%E5%9C%BA%E7%9C%8B%E8%8B%8F%E8%B6%85%E5%BC%80%E5%B9%95%E5%BC%8F%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
       "platform": "bilibili",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
+      "collectedAt": "2026-04-13T04:16:33.525Z",
       "source": "bilibili_trending_ranking"
     },
     {
-      "id": "auto_weibo_bd9a9086",
-      "title": "小狗也是会洗头的",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E4%B9%9F%E6%98%AF%E4%BC%9A%E6%B4%97%E5%A4%B4%E7%9A%84%23",
+      "id": "auto_weibo_7dea8e42",
+      "title": "商家标语打到的媳妇揉到的面引争议",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%95%86%E5%AE%B6%E6%A0%87%E8%AF%AD%E6%89%93%E5%88%B0%E7%9A%84%E5%AA%B3%E5%A6%87%E6%8F%89%E5%88%B0%E7%9A%84%E9%9D%A2%E5%BC%95%E4%BA%89%E8%AE%AE%23",
+      "platform": "weibo",
+      "keywords": [
+        "新"
+      ],
+      "collectedAt": "2026-04-13T04:16:31.199Z",
+      "source": "weibo_hotSearch"
+    },
+    {
+      "id": "auto_douyin_22ed339",
+      "title": "郑丽文返抵台湾在机场发表讲话",
+      "url": "https://www.douyin.com/search/%E9%83%91%E4%B8%BD%E6%96%87%E8%BF%94%E6%8A%B5%E5%8F%B0%E6%B9%BE%E5%9C%A8%E6%9C%BA%E5%9C%BA%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D",
+      "platform": "douyin",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:32.979Z",
+      "source": "douyin_hotsearch"
+    },
+    {
+      "id": "auto_bilibili_2e00afbc",
+      "title": "欧尔班承认败选",
+      "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E5%B0%94%E7%8F%AD%E6%89%BF%E8%AE%A4%E8%B4%A5%E9%80%89",
+      "platform": "bilibili",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:33.525Z",
+      "source": "bilibili_trending_ranking"
+    },
+    {
+      "id": "auto_weibo_cbe806d3",
+      "title": "十日终焉防代拍",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E9%98%B2%E4%BB%A3%E6%8B%8D%23",
       "platform": "weibo",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_douyin_1cebd3ff",
-      "title": "全网都在化昆凌同款油画粉彩妆",
-      "url": "https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E9%83%BD%E5%9C%A8%E5%8C%96%E6%98%86%E5%87%8C%E5%90%8C%E6%AC%BE%E6%B2%B9%E7%94%BB%E7%B2%89%E5%BD%A9%E5%A6%86",
+      "id": "auto_douyin_82e423df",
+      "title": "赌王何鸿燊女儿何超蕸去世",
+      "url": "https://www.douyin.com/search/%E8%B5%8C%E7%8E%8B%E4%BD%95%E9%B8%BF%E7%87%8A%E5%A5%B3%E5%84%BF%E4%BD%95%E8%B6%85%E8%95%B8%E5%8E%BB%E4%B8%96",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_bilibili_21247c20",
-      "title": "海南高温会影响水果生长吗",
-      "url": "https://search.bilibili.com/all?keyword=%E6%B5%B7%E5%8D%97%E9%AB%98%E6%B8%A9%E4%BC%9A%E5%BD%B1%E5%93%8D%E6%B0%B4%E6%9E%9C%E7%94%9F%E9%95%BF%E5%90%97",
+      "id": "auto_bilibili_17300a3e",
+      "title": "面对面专访张雪",
+      "url": "https://search.bilibili.com/all?keyword=%E9%9D%A2%E5%AF%B9%E9%9D%A2%E4%B8%93%E8%AE%BF%E5%BC%A0%E9%9B%AA",
       "platform": "bilibili",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
-      "source": "bilibili_trending_ranking"
-    },
-    {
-      "id": "auto_bilibili_354b5505",
-      "title": "三角洲新传说近战武器坠星者",
-      "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E6%96%B0%E4%BC%A0%E8%AF%B4%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8%E5%9D%A0%E6%98%9F%E8%80%85",
-      "platform": "bilibili",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
-      "source": "bilibili_trending_ranking"
-    },
-    {
-      "id": "auto_bilibili_68a66291",
-      "title": "明日方舟EP In Due Time",
-      "url": "https://search.bilibili.com/all?keyword=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9FEP%20In%20Due%20Time",
-      "platform": "bilibili",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
-      "source": "bilibili_trending_ranking"
-    },
-    {
-      "id": "auto_bilibili_28a9b5cf",
-      "title": "警方通报全红婵遭网暴事件",
-      "url": "https://search.bilibili.com/all?keyword=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%81%AD%E7%BD%91%E6%9A%B4%E4%BA%8B%E4%BB%B6",
-      "platform": "bilibili",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
-      "source": "bilibili_trending_ranking"
-    },
-    {
-      "id": "auto_bilibili_e23fe309",
-      "title": "KSG流浪获KPL春季赛FMVP",
-      "url": "https://search.bilibili.com/all?keyword=KSG%E6%B5%81%E6%B5%AA%E8%8E%B7KPL%E6%98%A5%E5%AD%A3%E8%B5%9BFMVP",
-      "platform": "bilibili",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
-      "source": "bilibili_trending_ranking"
-    },
-    {
-      "id": "auto_bilibili_8c079d90",
-      "title": "EDG DRG",
-      "url": "https://search.bilibili.com/all?keyword=EDG%20DRG",
-      "platform": "bilibili",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
+      "collectedAt": "2026-04-13T04:16:33.525Z",
       "source": "bilibili_trending_ranking"
     },
     {
@@ -619,43 +588,34 @@
       "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
       "platform": "bilibili",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
+      "collectedAt": "2026-04-13T04:16:33.525Z",
       "source": "bilibili_trending_ranking"
     },
     {
-      "id": "auto_bilibili_6b007efa",
-      "title": "2026苏超前瞻",
-      "url": "https://search.bilibili.com/all?keyword=2026%E8%8B%8F%E8%B6%85%E5%89%8D%E7%9E%BB",
+      "id": "auto_bilibili_c736ea4b",
+      "title": "机器人短跑破纪录有什么用",
+      "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9F%AD%E8%B7%91%E7%A0%B4%E7%BA%AA%E5%BD%95%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8",
       "platform": "bilibili",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
+      "collectedAt": "2026-04-13T04:16:33.525Z",
       "source": "bilibili_trending_ranking"
     },
     {
-      "id": "auto_bilibili_72a47d27",
-      "title": "IG WE",
-      "url": "https://search.bilibili.com/all?keyword=IG%20WE",
+      "id": "auto_bilibili_2983b64f",
+      "title": "切尔西0-3曼城",
+      "url": "https://search.bilibili.com/all?keyword=%E5%88%87%E5%B0%94%E8%A5%BF0-3%E6%9B%BC%E5%9F%8E",
       "platform": "bilibili",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
+      "collectedAt": "2026-04-13T04:16:33.525Z",
       "source": "bilibili_trending_ranking"
     },
     {
-      "id": "auto_bilibili_84388d2a",
-      "title": "王者孙权大招削弱",
-      "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E5%AD%99%E6%9D%83%E5%A4%A7%E6%8B%9B%E5%89%8A%E5%BC%B1",
+      "id": "auto_bilibili_75e7f0a4",
+      "title": "巴菲特为何说没到抄底时刻",
+      "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%8F%B2%E7%89%B9%E4%B8%BA%E4%BD%95%E8%AF%B4%E6%B2%A1%E5%88%B0%E6%8A%84%E5%BA%95%E6%97%B6%E5%88%BB",
       "platform": "bilibili",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
-      "source": "bilibili_trending_ranking"
-    },
-    {
-      "id": "auto_bilibili_97fef55",
-      "title": "浪姐一公小考有多少槽点",
-      "url": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%90%E4%B8%80%E5%85%AC%E5%B0%8F%E8%80%83%E6%9C%89%E5%A4%9A%E5%B0%91%E6%A7%BD%E7%82%B9",
-      "platform": "bilibili",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
+      "collectedAt": "2026-04-13T04:16:33.525Z",
       "source": "bilibili_trending_ranking"
     },
     {
@@ -664,232 +624,286 @@
       "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%86%8D%E6%AC%A1%E5%88%B7%E6%96%B0%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95",
       "platform": "bilibili",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
+      "collectedAt": "2026-04-13T04:16:33.525Z",
       "source": "bilibili_trending_ranking"
     },
     {
-      "id": "auto_bilibili_669f0e54",
-      "title": "AG TYL",
-      "url": "https://search.bilibili.com/all?keyword=AG%20TYL",
+      "id": "auto_bilibili_26c15ab6",
+      "title": "嘎子卖酸奶进化史",
+      "url": "https://search.bilibili.com/all?keyword=%E5%98%8E%E5%AD%90%E5%8D%96%E9%85%B8%E5%A5%B6%E8%BF%9B%E5%8C%96%E5%8F%B2",
       "platform": "bilibili",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
+      "collectedAt": "2026-04-13T04:16:33.525Z",
       "source": "bilibili_trending_ranking"
     },
     {
-      "id": "auto_bilibili_67893964",
-      "title": "隐秘的欧洲黑帮之国",
-      "url": "https://search.bilibili.com/all?keyword=%E9%9A%90%E7%A7%98%E7%9A%84%E6%AC%A7%E6%B4%B2%E9%BB%91%E5%B8%AE%E4%B9%8B%E5%9B%BD",
+      "id": "auto_bilibili_61a0614e",
+      "title": "华强买瓜但是量子力学",
+      "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E5%BC%BA%E4%B9%B0%E7%93%9C%E4%BD%86%E6%98%AF%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6",
       "platform": "bilibili",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
+      "collectedAt": "2026-04-13T04:16:33.525Z",
       "source": "bilibili_trending_ranking"
     },
     {
-      "id": "auto_bilibili_87e5249c",
-      "title": "浪姐一公争议复盘",
-      "url": "https://search.bilibili.com/all?keyword=%E6%B5%AA%E5%A7%90%E4%B8%80%E5%85%AC%E4%BA%89%E8%AE%AE%E5%A4%8D%E7%9B%98",
+      "id": "auto_bilibili_48d0fffc",
+      "title": "秦牧",
+      "url": "https://search.bilibili.com/all?keyword=%E7%A7%A6%E7%89%A7",
       "platform": "bilibili",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
+      "collectedAt": "2026-04-13T04:16:33.525Z",
       "source": "bilibili_trending_ranking"
     },
     {
-      "id": "auto_bilibili_b9d3f4e",
-      "title": "巴萨4-1西班牙人",
-      "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%90%A84-1%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BA%BA",
+      "id": "auto_bilibili_c4da182a",
+      "title": "比伯做客科切拉音乐节",
+      "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E4%BC%AF%E5%81%9A%E5%AE%A2%E7%A7%91%E5%88%87%E6%8B%89%E9%9F%B3%E4%B9%90%E8%8A%82",
       "platform": "bilibili",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
+      "collectedAt": "2026-04-13T04:16:33.525Z",
       "source": "bilibili_trending_ranking"
     },
     {
-      "id": "auto_bilibili_d47cd5e9",
-      "title": "有一名浪人前来买瓜",
-      "url": "https://search.bilibili.com/all?keyword=%E6%9C%89%E4%B8%80%E5%90%8D%E6%B5%AA%E4%BA%BA%E5%89%8D%E6%9D%A5%E4%B9%B0%E7%93%9C",
+      "id": "auto_bilibili_48d0fa9b",
+      "title": "华强买瓜 但是心理战",
+      "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E5%BC%BA%E4%B9%B0%E7%93%9C%20%E4%BD%86%E6%98%AF%E5%BF%83%E7%90%86%E6%88%98",
       "platform": "bilibili",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
+      "collectedAt": "2026-04-13T04:16:33.525Z",
       "source": "bilibili_trending_ranking"
     },
     {
-      "id": "auto_bilibili_75857147",
-      "title": "美载人飞船结束绕月之旅",
-      "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%BD%BD%E4%BA%BA%E9%A3%9E%E8%88%B9%E7%BB%93%E6%9D%9F%E7%BB%95%E6%9C%88%E4%B9%8B%E6%97%85",
+      "id": "auto_bilibili_354b5505",
+      "title": "三角洲新传说近战武器坠星者",
+      "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E6%96%B0%E4%BC%A0%E8%AF%B4%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8%E5%9D%A0%E6%98%9F%E8%80%85",
       "platform": "bilibili",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
+      "collectedAt": "2026-04-13T04:16:33.525Z",
       "source": "bilibili_trending_ranking"
     },
     {
-      "id": "auto_bilibili_146cf34",
-      "title": "用女主视角打开白日提灯",
-      "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E5%A5%B3%E4%B8%BB%E8%A7%86%E8%A7%92%E6%89%93%E5%BC%80%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF",
+      "id": "auto_bilibili_859bef85",
+      "title": "歌剧老师锐评浪姐第二期",
+      "url": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E6%B5%AA%E5%A7%90%E7%AC%AC%E4%BA%8C%E6%9C%9F",
       "platform": "bilibili",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
+      "collectedAt": "2026-04-13T04:16:33.525Z",
       "source": "bilibili_trending_ranking"
     },
     {
-      "id": "auto_bilibili_1ee3481",
-      "title": "常州3-0南通",
-      "url": "https://search.bilibili.com/all?keyword=%E5%B8%B8%E5%B7%9E3-0%E5%8D%97%E9%80%9A",
+      "id": "auto_bilibili_c6dab86d",
+      "title": "伊媒称美方过分要求阻碍协议达成",
+      "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E5%AA%92%E7%A7%B0%E7%BE%8E%E6%96%B9%E8%BF%87%E5%88%86%E8%A6%81%E6%B1%82%E9%98%BB%E7%A2%8D%E5%8D%8F%E8%AE%AE%E8%BE%BE%E6%88%90",
       "platform": "bilibili",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
+      "collectedAt": "2026-04-13T04:16:33.525Z",
       "source": "bilibili_trending_ranking"
     },
     {
-      "id": "auto_bilibili_ac0c5d0a",
-      "title": "阿森纳1-2伯恩茅斯",
-      "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A3%AE%E7%BA%B31-2%E4%BC%AF%E6%81%A9%E8%8C%85%E6%96%AF",
+      "id": "auto_bilibili_d65e8d2f",
+      "title": "常冰玉斯诺克世锦赛打出147",
+      "url": "https://search.bilibili.com/all?keyword=%E5%B8%B8%E5%86%B0%E7%8E%89%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%96%E9%94%A6%E8%B5%9B%E6%89%93%E5%87%BA147",
       "platform": "bilibili",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.986Z",
+      "collectedAt": "2026-04-13T04:16:33.525Z",
       "source": "bilibili_trending_ranking"
     },
     {
-      "id": "auto_douyin_db822e1e",
-      "title": "周深苏超开幕式献唱",
-      "url": "https://www.douyin.com/search/%E5%91%A8%E6%B7%B1%E8%8B%8F%E8%B6%85%E5%BC%80%E5%B9%95%E5%BC%8F%E7%8C%AE%E5%94%B1",
+      "id": "auto_bilibili_872e9b02",
+      "title": "美军称将封锁伊港口海上交通",
+      "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E7%A7%B0%E5%B0%86%E5%B0%81%E9%94%81%E4%BC%8A%E6%B8%AF%E5%8F%A3%E6%B5%B7%E4%B8%8A%E4%BA%A4%E9%80%9A",
+      "platform": "bilibili",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:33.525Z",
+      "source": "bilibili_trending_ranking"
+    },
+    {
+      "id": "auto_bilibili_f973cfb",
+      "title": "2026荷赛奖公布",
+      "url": "https://search.bilibili.com/all?keyword=2026%E8%8D%B7%E8%B5%9B%E5%A5%96%E5%85%AC%E5%B8%83",
+      "platform": "bilibili",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:33.525Z",
+      "source": "bilibili_trending_ranking"
+    },
+    {
+      "id": "auto_bilibili_61636fed",
+      "title": "三角洲S9直播前瞻汇总",
+      "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2S9%E7%9B%B4%E6%92%AD%E5%89%8D%E7%9E%BB%E6%B1%87%E6%80%BB",
+      "platform": "bilibili",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:33.525Z",
+      "source": "bilibili_trending_ranking"
+    },
+    {
+      "id": "auto_bilibili_793c3ca",
+      "title": "超强台风或影响美国",
+      "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E6%88%96%E5%BD%B1%E5%93%8D%E7%BE%8E%E5%9B%BD",
+      "platform": "bilibili",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:33.525Z",
+      "source": "bilibili_trending_ranking"
+    },
+    {
+      "id": "auto_bilibili_44e7e169",
+      "title": "抽蒜薹为何无法实现机械化",
+      "url": "https://search.bilibili.com/all?keyword=%E6%8A%BD%E8%92%9C%E8%96%B9%E4%B8%BA%E4%BD%95%E6%97%A0%E6%B3%95%E5%AE%9E%E7%8E%B0%E6%9C%BA%E6%A2%B0%E5%8C%96",
+      "platform": "bilibili",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:33.525Z",
+      "source": "bilibili_trending_ranking"
+    },
+    {
+      "id": "auto_bilibili_bfd5789a",
+      "title": "捷龙三号运载火箭发射成功",
+      "url": "https://search.bilibili.com/all?keyword=%E6%8D%B7%E9%BE%99%E4%B8%89%E5%8F%B7%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F",
+      "platform": "bilibili",
+      "keywords": [],
+      "collectedAt": "2026-04-13T04:16:33.525Z",
+      "source": "bilibili_trending_ranking"
+    },
+    {
+      "id": "auto_douyin_6efb7599",
+      "title": "乘风2026一公第二场",
+      "url": "https://www.douyin.com/search/%E4%B9%98%E9%A3%8E2026%E4%B8%80%E5%85%AC%E7%AC%AC%E4%BA%8C%E5%9C%BA",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_6024727b",
-      "title": "当我模仿刘思懿验镯子",
-      "url": "https://www.douyin.com/search/%E5%BD%93%E6%88%91%E6%A8%A1%E4%BB%BF%E5%88%98%E6%80%9D%E6%87%BF%E9%AA%8C%E9%95%AF%E5%AD%90",
+      "id": "auto_douyin_dee6b570",
+      "title": "三角洲S9新赛季前瞻爆料",
+      "url": "https://www.douyin.com/search/%E4%B8%89%E8%A7%92%E6%B4%B2S9%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%89%8D%E7%9E%BB%E7%88%86%E6%96%99",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_b7f113a7",
-      "title": "是贪吃王来了",
-      "url": "https://www.douyin.com/search/%E6%98%AF%E8%B4%AA%E5%90%83%E7%8E%8B%E6%9D%A5%E4%BA%86",
+      "id": "auto_douyin_a069d39a",
+      "title": "钢铁森林大结局",
+      "url": "https://www.douyin.com/search/%E9%92%A2%E9%93%81%E6%A3%AE%E6%9E%97%E5%A4%A7%E7%BB%93%E5%B1%80",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_fc8e972e",
-      "title": "谢谢网络上素不相识的你们",
-      "url": "https://www.douyin.com/search/%E8%B0%A2%E8%B0%A2%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%B4%A0%E4%B8%8D%E7%9B%B8%E8%AF%86%E7%9A%84%E4%BD%A0%E4%BB%AC",
+      "id": "auto_douyin_c68709f3",
+      "title": "水豚噜噜抖音小火人联动",
+      "url": "https://www.douyin.com/search/%E6%B0%B4%E8%B1%9A%E5%99%9C%E5%99%9C%E6%8A%96%E9%9F%B3%E5%B0%8F%E7%81%AB%E4%BA%BA%E8%81%94%E5%8A%A8",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_b765ec95",
-      "title": "来青岛真的可以实现海鲜自由",
-      "url": "https://www.douyin.com/search/%E6%9D%A5%E9%9D%92%E5%B2%9B%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E5%AE%9E%E7%8E%B0%E6%B5%B7%E9%B2%9C%E8%87%AA%E7%94%B1",
+      "id": "auto_douyin_c75a9cf7",
+      "title": "迪丽热巴的墨镜杀权威到没边",
+      "url": "https://www.douyin.com/search/%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9A%84%E5%A2%A8%E9%95%9C%E6%9D%80%E6%9D%83%E5%A8%81%E5%88%B0%E6%B2%A1%E8%BE%B9",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_3c1c7c1b",
-      "title": "我也来试一下这个wait",
-      "url": "https://www.douyin.com/search/%E6%88%91%E4%B9%9F%E6%9D%A5%E8%AF%95%E4%B8%80%E4%B8%8B%E8%BF%99%E4%B8%AAwait",
+      "id": "auto_douyin_5e114b7e",
+      "title": "朴彩英科切拉colorwalk",
+      "url": "https://www.douyin.com/search/%E6%9C%B4%E5%BD%A9%E8%8B%B1%E7%A7%91%E5%88%87%E6%8B%89colorwalk",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_fde6d3ec",
-      "title": "郑丽文参观故宫",
-      "url": "https://www.douyin.com/search/%E9%83%91%E4%B8%BD%E6%96%87%E5%8F%82%E8%A7%82%E6%95%85%E5%AE%AB",
+      "id": "auto_douyin_7c78d705",
+      "title": "曾沛慈生气像在撒娇",
+      "url": "https://www.douyin.com/search/%E6%9B%BE%E6%B2%9B%E6%85%88%E7%94%9F%E6%B0%94%E5%83%8F%E5%9C%A8%E6%92%92%E5%A8%87",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_959d59a",
-      "title": "谢霆锋武汉演唱会",
-      "url": "https://www.douyin.com/search/%E8%B0%A2%E9%9C%86%E9%94%8B%E6%AD%A6%E6%B1%89%E6%BC%94%E5%94%B1%E4%BC%9A",
+      "id": "auto_douyin_a9e17a98",
+      "title": "王心凌南通商演直拍",
+      "url": "https://www.douyin.com/search/%E7%8E%8B%E5%BF%83%E5%87%8C%E5%8D%97%E9%80%9A%E5%95%86%E6%BC%94%E7%9B%B4%E6%8B%8D",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_51cd5b1c",
-      "title": "周瑾的爱给谁都热烈",
-      "url": "https://www.douyin.com/search/%E5%91%A8%E7%91%BE%E7%9A%84%E7%88%B1%E7%BB%99%E8%B0%81%E9%83%BD%E7%83%AD%E7%83%88",
+      "id": "auto_douyin_76107660",
+      "title": "皮皮朱繁花红毯硬控全场",
+      "url": "https://www.douyin.com/search/%E7%9A%AE%E7%9A%AE%E6%9C%B1%E7%B9%81%E8%8A%B1%E7%BA%A2%E6%AF%AF%E7%A1%AC%E6%8E%A7%E5%85%A8%E5%9C%BA",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_215cdd0e",
-      "title": "郑润泽广州演唱会",
-      "url": "https://www.douyin.com/search/%E9%83%91%E6%B6%A6%E6%B3%BD%E5%B9%BF%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A",
+      "id": "auto_douyin_7076a248",
+      "title": "林一转头依旧看不见卢昱晓",
+      "url": "https://www.douyin.com/search/%E6%9E%97%E4%B8%80%E8%BD%AC%E5%A4%B4%E4%BE%9D%E6%97%A7%E7%9C%8B%E4%B8%8D%E8%A7%81%E5%8D%A2%E6%98%B1%E6%99%93",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_c166912a",
-      "title": "乌兰图雅团全英文舞台好燃",
-      "url": "https://www.douyin.com/search/%E4%B9%8C%E5%85%B0%E5%9B%BE%E9%9B%85%E5%9B%A2%E5%85%A8%E8%8B%B1%E6%96%87%E8%88%9E%E5%8F%B0%E5%A5%BD%E7%87%83",
+      "id": "auto_douyin_27fc34f0",
+      "title": "何润东林树父仇者联盟",
+      "url": "https://www.douyin.com/search/%E4%BD%95%E6%B6%A6%E4%B8%9C%E6%9E%97%E6%A0%91%E7%88%B6%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_b1e528e1",
-      "title": "曾沛慈回应人气断层第一",
-      "url": "https://www.douyin.com/search/%E6%9B%BE%E6%B2%9B%E6%85%88%E5%9B%9E%E5%BA%94%E4%BA%BA%E6%B0%94%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80",
+      "id": "auto_douyin_380e6b36",
+      "title": "何秋亊红毯春日氛围感拉满",
+      "url": "https://www.douyin.com/search/%E4%BD%95%E7%A7%8B%E4%BA%8A%E7%BA%A2%E6%AF%AF%E6%98%A5%E6%97%A5%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%8B%89%E6%BB%A1",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_eafe4f50",
-      "title": "戚薇的外星小绿猫舞突如其来",
-      "url": "https://www.douyin.com/search/%E6%88%9A%E8%96%87%E7%9A%84%E5%A4%96%E6%98%9F%E5%B0%8F%E7%BB%BF%E7%8C%AB%E8%88%9E%E7%AA%81%E5%A6%82%E5%85%B6%E6%9D%A5",
+      "id": "auto_douyin_8cc27a0e",
+      "title": "人生中第一场演唱会是苏超给的",
+      "url": "https://www.douyin.com/search/%E4%BA%BA%E7%94%9F%E4%B8%AD%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E6%98%AF%E8%8B%8F%E8%B6%85%E7%BB%99%E7%9A%84",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_d8fbcd6a",
-      "title": "柳智敏金玟庭双人舞台",
-      "url": "https://www.douyin.com/search/%E6%9F%B3%E6%99%BA%E6%95%8F%E9%87%91%E7%8E%9F%E5%BA%AD%E5%8F%8C%E4%BA%BA%E8%88%9E%E5%8F%B0",
+      "id": "auto_douyin_edfbab67",
+      "title": "抖音直播繁花盛典",
+      "url": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD%E7%B9%81%E8%8A%B1%E7%9B%9B%E5%85%B8",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_51c3447c",
-      "title": "李心洁团雨爱舞台好动人",
-      "url": "https://www.douyin.com/search/%E6%9D%8E%E5%BF%83%E6%B4%81%E5%9B%A2%E9%9B%A8%E7%88%B1%E8%88%9E%E5%8F%B0%E5%A5%BD%E5%8A%A8%E4%BA%BA",
+      "id": "auto_douyin_2c2eab8",
+      "title": "这是我短发的所有样子",
+      "url": "https://www.douyin.com/search/%E8%BF%99%E6%98%AF%E6%88%91%E7%9F%AD%E5%8F%91%E7%9A%84%E6%89%80%E6%9C%89%E6%A0%B7%E5%AD%90",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_dff90d5e",
-      "title": "苏超开幕常州酱板龙先火了",
-      "url": "https://www.douyin.com/search/%E8%8B%8F%E8%B6%85%E5%BC%80%E5%B9%95%E5%B8%B8%E5%B7%9E%E9%85%B1%E6%9D%BF%E9%BE%99%E5%85%88%E7%81%AB%E4%BA%86",
+      "id": "auto_douyin_3fc314ed",
+      "title": "吸血鬼日记给我演爽了",
+      "url": "https://www.douyin.com/search/%E5%90%B8%E8%A1%80%E9%AC%BC%E6%97%A5%E8%AE%B0%E7%BB%99%E6%88%91%E6%BC%94%E7%88%BD%E4%BA%86",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
@@ -898,339 +912,354 @@
       "url": "https://www.douyin.com/search/%E8%8B%8F%E5%98%9F%E5%98%9F%E4%BA%AE%E7%9B%B8%E8%8B%8F%E8%B6%85%E5%BC%80%E5%B9%95%E5%BC%8F",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_b2a7b5cb",
-      "title": "王濛组唱心愿便利贴",
-      "url": "https://www.douyin.com/search/%E7%8E%8B%E6%BF%9B%E7%BB%84%E5%94%B1%E5%BF%83%E6%84%BF%E4%BE%BF%E5%88%A9%E8%B4%B4",
+      "id": "auto_douyin_6d68f4d9",
+      "title": "等到章昊的复仇摇了",
+      "url": "https://www.douyin.com/search/%E7%AD%89%E5%88%B0%E7%AB%A0%E6%98%8A%E7%9A%84%E5%A4%8D%E4%BB%87%E6%91%87%E4%BA%86",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_f5dbc4b",
-      "title": "庄法团大艺术家舞台气场全开",
-      "url": "https://www.douyin.com/search/%E5%BA%84%E6%B3%95%E5%9B%A2%E5%A4%A7%E8%89%BA%E6%9C%AF%E5%AE%B6%E8%88%9E%E5%8F%B0%E6%B0%94%E5%9C%BA%E5%85%A8%E5%BC%80",
+      "id": "auto_douyin_c5a0dede",
+      "title": "EXO演唱会MAMA直拍",
+      "url": "https://www.douyin.com/search/EXO%E6%BC%94%E5%94%B1%E4%BC%9AMAMA%E7%9B%B4%E6%8B%8D",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_ea098e27",
-      "title": "陈楚生上海演唱会",
-      "url": "https://www.douyin.com/search/%E9%99%88%E6%A5%9A%E7%94%9F%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A",
+      "id": "auto_douyin_81f363c0",
+      "title": "丁玉娇房子被弟媳霸占",
+      "url": "https://www.douyin.com/search/%E4%B8%81%E7%8E%89%E5%A8%87%E6%88%BF%E5%AD%90%E8%A2%AB%E5%BC%9F%E5%AA%B3%E9%9C%B8%E5%8D%A0",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_feac9ee8",
-      "title": "田曦薇轻而易举的萌",
-      "url": "https://www.douyin.com/search/%E7%94%B0%E6%9B%A6%E8%96%87%E8%BD%BB%E8%80%8C%E6%98%93%E4%B8%BE%E7%9A%84%E8%90%8C",
+      "id": "auto_douyin_5abaebfc",
+      "title": "黄霄雲再唱人鱼之歌",
+      "url": "https://www.douyin.com/search/%E9%BB%84%E9%9C%84%E9%9B%B2%E5%86%8D%E5%94%B1%E4%BA%BA%E9%B1%BC%E4%B9%8B%E6%AD%8C",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_74b702dd",
-      "title": "阮喻穿上婚纱美炸了",
-      "url": "https://www.douyin.com/search/%E9%98%AE%E5%96%BB%E7%A9%BF%E4%B8%8A%E5%A9%9A%E7%BA%B1%E7%BE%8E%E7%82%B8%E4%BA%86",
+      "id": "auto_douyin_6024727b",
+      "title": "当我模仿刘思懿验镯子",
+      "url": "https://www.douyin.com/search/%E5%BD%93%E6%88%91%E6%A8%A1%E4%BB%BF%E5%88%98%E6%80%9D%E6%87%BF%E9%AA%8C%E9%95%AF%E5%AD%90",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_9329e211",
-      "title": "双方店长都派出了自己的宝可梦",
-      "url": "https://www.douyin.com/search/%E5%8F%8C%E6%96%B9%E5%BA%97%E9%95%BF%E9%83%BD%E6%B4%BE%E5%87%BA%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AE%9D%E5%8F%AF%E6%A2%A6",
+      "id": "auto_douyin_4747c180",
+      "title": "甜妹版第一天翻唱挑战",
+      "url": "https://www.douyin.com/search/%E7%94%9C%E5%A6%B9%E7%89%88%E7%AC%AC%E4%B8%80%E5%A4%A9%E7%BF%BB%E5%94%B1%E6%8C%91%E6%88%98",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_5f40c844",
-      "title": "视觉中国摄影师的权威无需多言",
-      "url": "https://www.douyin.com/search/%E8%A7%86%E8%A7%89%E4%B8%AD%E5%9B%BD%E6%91%84%E5%BD%B1%E5%B8%88%E7%9A%84%E6%9D%83%E5%A8%81%E6%97%A0%E9%9C%80%E5%A4%9A%E8%A8%80",
+      "id": "auto_douyin_514fa2a3",
+      "title": "五哈这期女嘉宾好暖心",
+      "url": "https://www.douyin.com/search/%E4%BA%94%E5%93%88%E8%BF%99%E6%9C%9F%E5%A5%B3%E5%98%89%E5%AE%BE%E5%A5%BD%E6%9A%96%E5%BF%83",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_9be5f918",
-      "title": "一条视频看迪丽热巴灵主超绝打戏",
-      "url": "https://www.douyin.com/search/%E4%B8%80%E6%9D%A1%E8%A7%86%E9%A2%91%E7%9C%8B%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%81%B5%E4%B8%BB%E8%B6%85%E7%BB%9D%E6%89%93%E6%88%8F",
+      "id": "auto_douyin_287bda9c",
+      "title": "双脚起跳 甩开烦恼",
+      "url": "https://www.douyin.com/search/%E5%8F%8C%E8%84%9A%E8%B5%B7%E8%B7%B3%20%E7%94%A9%E5%BC%80%E7%83%A6%E6%81%BC",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_d033ef4f",
-      "title": "蒋一帆 这是好事",
-      "url": "https://www.douyin.com/search/%E8%92%8B%E4%B8%80%E5%B8%86%20%E8%BF%99%E6%98%AF%E5%A5%BD%E4%BA%8B",
+      "id": "auto_douyin_e3867753",
+      "title": "短剧剧宣误入豪门少夫人聚会局",
+      "url": "https://www.douyin.com/search/%E7%9F%AD%E5%89%A7%E5%89%A7%E5%AE%A3%E8%AF%AF%E5%85%A5%E8%B1%AA%E9%97%A8%E5%B0%91%E5%A4%AB%E4%BA%BA%E8%81%9A%E4%BC%9A%E5%B1%80",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_2f942c8c",
-      "title": "不怕翻唱",
-      "url": "https://www.douyin.com/search/%E4%B8%8D%E6%80%95%E7%BF%BB%E5%94%B1",
+      "id": "auto_douyin_e22ab585",
+      "title": "CORTIS洗把脸就回归了",
+      "url": "https://www.douyin.com/search/CORTIS%E6%B4%97%E6%8A%8A%E8%84%B8%E5%B0%B1%E5%9B%9E%E5%BD%92%E4%BA%86",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_douyin_ab663006",
-      "title": "宋亚轩威震世界的萌虎",
-      "url": "https://www.douyin.com/search/%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%A8%81%E9%9C%87%E4%B8%96%E7%95%8C%E7%9A%84%E8%90%8C%E8%99%8E",
+      "id": "auto_douyin_549fdd35",
+      "title": "玲花唱蒙语歌的杀伤力",
+      "url": "https://www.douyin.com/search/%E7%8E%B2%E8%8A%B1%E5%94%B1%E8%92%99%E8%AF%AD%E6%AD%8C%E7%9A%84%E6%9D%80%E4%BC%A4%E5%8A%9B",
       "platform": "douyin",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:12.519Z",
+      "collectedAt": "2026-04-13T04:16:32.979Z",
       "source": "douyin_hotsearch"
     },
     {
-      "id": "auto_weibo_6d00d684",
-      "title": "郭碧婷劝小鹿不要生二胎",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E5%8A%9D%E5%B0%8F%E9%B9%BF%E4%B8%8D%E8%A6%81%E7%94%9F%E4%BA%8C%E8%83%8E%23",
+      "id": "auto_weibo_88da2b5e",
+      "title": "在中国我们不说玩腻了分手吧",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%88%91%E4%BB%AC%E4%B8%8D%E8%AF%B4%E7%8E%A9%E8%85%BB%E4%BA%86%E5%88%86%E6%89%8B%E5%90%A7%23",
       "platform": "weibo",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_weibo_6415dbe7",
-      "title": "谢娜演唱会用张杰的团队",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E7%94%A8%E5%BC%A0%E6%9D%B0%E7%9A%84%E5%9B%A2%E9%98%9F%23",
+      "id": "auto_weibo_c03004d6",
+      "title": "被央视曝光涉黄AI软件未下架",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%B6%89%E9%BB%84AI%E8%BD%AF%E4%BB%B6%E6%9C%AA%E4%B8%8B%E6%9E%B6%23",
+      "platform": "weibo",
+      "keywords": [
+        "新"
+      ],
+      "collectedAt": "2026-04-13T04:16:31.199Z",
+      "source": "weibo_hotSearch"
+    },
+    {
+      "id": "auto_weibo_bd377505",
+      "title": "女子遭法官猥亵16分钟录音曝光",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%81%AD%E6%B3%95%E5%AE%98%E7%8C%A5%E4%BA%B516%E5%88%86%E9%92%9F%E5%BD%95%E9%9F%B3%E6%9B%9D%E5%85%89%23",
       "platform": "weibo",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_weibo_fd251766",
-      "title": "海底捞已通知一千多家门店内部排查",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B7%B2%E9%80%9A%E7%9F%A5%E4%B8%80%E5%8D%83%E5%A4%9A%E5%AE%B6%E9%97%A8%E5%BA%97%E5%86%85%E9%83%A8%E6%8E%92%E6%9F%A5%23",
+      "id": "auto_weibo_3e94ef29",
+      "title": "时代少年团新歌",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%96%B0%E6%AD%8C%23",
       "platform": "weibo",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_weibo_92d31ac4",
-      "title": "祝绪丹一亲嘴家里盆都端冒烟了",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%A5%9D%E7%BB%AA%E4%B8%B9%E4%B8%80%E4%BA%B2%E5%98%B4%E5%AE%B6%E9%87%8C%E7%9B%86%E9%83%BD%E7%AB%AF%E5%86%92%E7%83%9F%E4%BA%86%23",
+      "id": "auto_weibo_ca111a69",
+      "title": "晒衣服偏心",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%99%92%E8%A1%A3%E6%9C%8D%E5%81%8F%E5%BF%83%23",
+      "platform": "weibo",
+      "keywords": [
+        "新"
+      ],
+      "collectedAt": "2026-04-13T04:16:31.199Z",
+      "source": "weibo_hotSearch"
+    },
+    {
+      "id": "auto_weibo_98a98a8b",
+      "title": "徐艺洋竟然和孙怡合作过",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B%E7%AB%9F%E7%84%B6%E5%92%8C%E5%AD%99%E6%80%A1%E5%90%88%E4%BD%9C%E8%BF%87%23",
       "platform": "weibo",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_weibo_3fbebc46",
-      "title": "张凌赫小狗塑是田曦薇的限定款",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%B0%8F%E7%8B%97%E5%A1%91%E6%98%AF%E7%94%B0%E6%9B%A6%E8%96%87%E7%9A%84%E9%99%90%E5%AE%9A%E6%AC%BE%23",
-      "platform": "weibo",
-      "keywords": [
-        "新"
-      ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
-      "source": "weibo_hotSearch"
-    },
-    {
-      "id": "auto_weibo_a9cbac41",
-      "title": "汪东城曾沛慈平行时空同框",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B1%AA%E4%B8%9C%E5%9F%8E%E6%9B%BE%E6%B2%9B%E6%85%88%E5%B9%B3%E8%A1%8C%E6%97%B6%E7%A9%BA%E5%90%8C%E6%A1%86%23",
-      "platform": "weibo",
-      "keywords": [
-        "新"
-      ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
-      "source": "weibo_hotSearch"
-    },
-    {
-      "id": "auto_weibo_68f15297",
-      "title": "美国逮捕伊朗前副总统儿子",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%80%AE%E6%8D%95%E4%BC%8A%E6%9C%97%E5%89%8D%E5%89%AF%E6%80%BB%E7%BB%9F%E5%84%BF%E5%AD%90%23",
-      "platform": "weibo",
-      "keywords": [
-        "新"
-      ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
-      "source": "weibo_hotSearch"
-    },
-    {
-      "id": "auto_weibo_5952bfb4",
-      "title": "宋浩然又做医美了",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E6%B5%A9%E7%84%B6%E5%8F%88%E5%81%9A%E5%8C%BB%E7%BE%8E%E4%BA%86%23",
-      "platform": "weibo",
-      "keywords": [
-        "新"
-      ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
-      "source": "weibo_hotSearch"
-    },
-    {
-      "id": "auto_weibo_b0e96224",
-      "title": "网约车司机车内卖现磨咖啡",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E8%BD%A6%E5%86%85%E5%8D%96%E7%8E%B0%E7%A3%A8%E5%92%96%E5%95%A1%23",
-      "platform": "weibo",
-      "keywords": [
-        "新"
-      ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
-      "source": "weibo_hotSearch"
-    },
-    {
-      "id": "auto_weibo_e0161e6a",
-      "title": "葛荟婕自曝从未支付过女儿抚养费",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%91%9B%E8%8D%9F%E5%A9%95%E8%87%AA%E6%9B%9D%E4%BB%8E%E6%9C%AA%E6%94%AF%E4%BB%98%E8%BF%87%E5%A5%B3%E5%84%BF%E6%8A%9A%E5%85%BB%E8%B4%B9%23",
-      "platform": "weibo",
-      "keywords": [
-        "新"
-      ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
-      "source": "weibo_hotSearch"
-    },
-    {
-      "id": "auto_weibo_4b955629",
-      "title": "张柏芝晒与小儿子迪士尼游玩vlog",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%E6%99%92%E4%B8%8E%E5%B0%8F%E5%84%BF%E5%AD%90%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B8%B8%E7%8E%A9vlog%23",
-      "platform": "weibo",
-      "keywords": [
-        "新"
-      ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
-      "source": "weibo_hotSearch"
-    },
-    {
-      "id": "auto_weibo_79a6e9e",
-      "title": "恭喜那些洗袜子不翻面的人",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%81%AD%E5%96%9C%E9%82%A3%E4%BA%9B%E6%B4%97%E8%A2%9C%E5%AD%90%E4%B8%8D%E7%BF%BB%E9%9D%A2%E7%9A%84%E4%BA%BA%23",
+      "id": "auto_weibo_f7435853",
+      "title": "女子连吃两天蓝莓胃里堵成石墙",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%9E%E5%90%83%E4%B8%A4%E5%A4%A9%E8%93%9D%E8%8E%93%E8%83%83%E9%87%8C%E5%A0%B5%E6%88%90%E7%9F%B3%E5%A2%99%23",
       "platform": "weibo",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_weibo_5b4bebc8",
-      "title": "泰柬边境一电诈园内部环境曝光",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B0%E6%9F%AC%E8%BE%B9%E5%A2%83%E4%B8%80%E7%94%B5%E8%AF%88%E5%9B%AD%E5%86%85%E9%83%A8%E7%8E%AF%E5%A2%83%E6%9B%9D%E5%85%89%23",
+      "id": "auto_weibo_5e8b45fc",
+      "title": "老百姓看病应该多留个心眼",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E7%99%BE%E5%A7%93%E7%9C%8B%E7%97%85%E5%BA%94%E8%AF%A5%E5%A4%9A%E7%95%99%E4%B8%AA%E5%BF%83%E7%9C%BC%23",
       "platform": "weibo",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_weibo_d28c3192",
-      "title": "时代少年团广州演唱会批文",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%B9%BF%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E6%89%B9%E6%96%87%23",
+      "id": "auto_weibo_5e86c671",
+      "title": "烘焙界唯一无油低糖",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%83%98%E7%84%99%E7%95%8C%E5%94%AF%E4%B8%80%E6%97%A0%E6%B2%B9%E4%BD%8E%E7%B3%96%23",
+      "platform": "weibo",
+      "keywords": [
+        "新"
+      ],
+      "collectedAt": "2026-04-13T04:16:31.199Z",
+      "source": "weibo_hotSearch"
+    },
+    {
+      "id": "auto_weibo_c8bbd852",
+      "title": "广州日报官宣时代少年团演唱会",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%97%A5%E6%8A%A5%E5%AE%98%E5%AE%A3%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%23",
+      "platform": "weibo",
+      "keywords": [
+        "新"
+      ],
+      "collectedAt": "2026-04-13T04:16:31.199Z",
+      "source": "weibo_hotSearch"
+    },
+    {
+      "id": "auto_weibo_75cb39f1",
+      "title": "太急是一种很强的负能量",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AA%E6%80%A5%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BE%88%E5%BC%BA%E7%9A%84%E8%B4%9F%E8%83%BD%E9%87%8F%23",
+      "platform": "weibo",
+      "keywords": [
+        "新"
+      ],
+      "collectedAt": "2026-04-13T04:16:31.199Z",
+      "source": "weibo_hotSearch"
+    },
+    {
+      "id": "auto_weibo_49be68dc",
+      "title": "美国被伊朗看穿了",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E4%BC%8A%E6%9C%97%E7%9C%8B%E7%A9%BF%E4%BA%86%23",
+      "platform": "weibo",
+      "keywords": [
+        "新"
+      ],
+      "collectedAt": "2026-04-13T04:16:31.199Z",
+      "source": "weibo_hotSearch"
+    },
+    {
+      "id": "auto_weibo_a49e60ff",
+      "title": "被老鼠咬10天后确诊鼠咬热",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%80%81%E9%BC%A0%E5%92%AC10%E5%A4%A9%E5%90%8E%E7%A1%AE%E8%AF%8A%E9%BC%A0%E5%92%AC%E7%83%AD%23",
       "platform": "weibo",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_weibo_daf08876",
-      "title": "无忧渡",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E5%BF%A7%E6%B8%A1%23",
+      "id": "auto_weibo_1f713c68",
+      "title": "NBA西部季后赛对阵出炉",
+      "url": "https://s.weibo.com/weibo?q=%23NBA%E8%A5%BF%E9%83%A8%E5%AD%A3%E5%90%8E%E8%B5%9B%E5%AF%B9%E9%98%B5%E5%87%BA%E7%82%89%23",
+      "platform": "weibo",
+      "keywords": [
+        "新"
+      ],
+      "collectedAt": "2026-04-13T04:16:31.199Z",
+      "source": "weibo_hotSearch"
+    },
+    {
+      "id": "auto_weibo_e2d463b1",
+      "title": "法国男子回应将儿子锁货车内近2年",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E5%B0%86%E5%84%BF%E5%AD%90%E9%94%81%E8%B4%A7%E8%BD%A6%E5%86%85%E8%BF%912%E5%B9%B4%23",
+      "platform": "weibo",
+      "keywords": [
+        "新"
+      ],
+      "collectedAt": "2026-04-13T04:16:31.199Z",
+      "source": "weibo_hotSearch"
+    },
+    {
+      "id": "auto_weibo_28969942",
+      "title": "湖人火箭双向奔赴",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B9%96%E4%BA%BA%E7%81%AB%E7%AE%AD%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23",
+      "platform": "weibo",
+      "keywords": [
+        "新"
+      ],
+      "collectedAt": "2026-04-13T04:16:31.199Z",
+      "source": "weibo_hotSearch"
+    },
+    {
+      "id": "auto_weibo_c06c1b75",
+      "title": "男子称花19万买黄金订婚后女友变了",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%B0%E8%8A%B119%E4%B8%87%E4%B9%B0%E9%BB%84%E9%87%91%E8%AE%A2%E5%A9%9A%E5%90%8E%E5%A5%B3%E5%8F%8B%E5%8F%98%E4%BA%86%23",
+      "platform": "weibo",
+      "keywords": [
+        "新"
+      ],
+      "collectedAt": "2026-04-13T04:16:31.199Z",
+      "source": "weibo_hotSearch"
+    },
+    {
+      "id": "auto_weibo_3871b27b",
+      "title": "国际金银急跌",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E9%93%B6%E6%80%A5%E8%B7%8C%23",
+      "platform": "weibo",
+      "keywords": [
+        "新"
+      ],
+      "collectedAt": "2026-04-13T04:16:31.199Z",
+      "source": "weibo_hotSearch"
+    },
+    {
+      "id": "auto_weibo_4354aa8e",
+      "title": "曝苹果折叠屏内屏几乎无折痕",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E5%86%85%E5%B1%8F%E5%87%A0%E4%B9%8E%E6%97%A0%E6%8A%98%E7%97%95%23",
+      "platform": "weibo",
+      "keywords": [
+        "新"
+      ],
+      "collectedAt": "2026-04-13T04:16:31.199Z",
+      "source": "weibo_hotSearch"
+    },
+    {
+      "id": "auto_weibo_57b01516",
+      "title": "IU新剧首播收视率",
+      "url": "https://s.weibo.com/weibo?q=%23IU%E6%96%B0%E5%89%A7%E9%A6%96%E6%92%AD%E6%94%B6%E8%A7%86%E7%8E%87%23",
       "platform": "weibo",
       "keywords": [],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_weibo_ca44ffb8",
-      "title": "用Excel记录十年乳腺体检结果救了命",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8Excel%E8%AE%B0%E5%BD%95%E5%8D%81%E5%B9%B4%E4%B9%B3%E8%85%BA%E4%BD%93%E6%A3%80%E7%BB%93%E6%9E%9C%E6%95%91%E4%BA%86%E5%91%BD%23",
+      "id": "auto_weibo_11e675a0",
+      "title": "男子踢球心脏骤停对手150秒救回",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%B8%A2%E7%90%83%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E5%AF%B9%E6%89%8B150%E7%A7%92%E6%95%91%E5%9B%9E%23",
       "platform": "weibo",
       "keywords": [
         "新"
       ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_weibo_b95dabb4",
-      "title": "当小酒窝看到董璇年轻时的照片",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%B0%8F%E9%85%92%E7%AA%9D%E7%9C%8B%E5%88%B0%E8%91%A3%E7%92%87%E5%B9%B4%E8%BD%BB%E6%97%B6%E7%9A%84%E7%85%A7%E7%89%87%23",
+      "id": "auto_weibo_47c30628",
+      "title": "被我妈的捣蒜器震惊到了",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%88%91%E5%A6%88%E7%9A%84%E6%8D%A3%E8%92%9C%E5%99%A8%E9%9C%87%E6%83%8A%E5%88%B0%E4%BA%86%23",
       "platform": "weibo",
       "keywords": [
         "新"
       ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_weibo_8445f978",
-      "title": "19岁女孩回家奔丧买错车票崩溃大哭",
-      "url": "https://s.weibo.com/weibo?q=%2319%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%AE%B6%E5%A5%94%E4%B8%A7%E4%B9%B0%E9%94%99%E8%BD%A6%E7%A5%A8%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD%23",
-      "platform": "weibo",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
-      "source": "weibo_hotSearch"
-    },
-    {
-      "id": "auto_weibo_b3248611",
-      "title": "机器人夜跑姿势",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%9C%E8%B7%91%E5%A7%BF%E5%8A%BF%23",
+      "id": "auto_weibo_1a69a744",
+      "title": "詹姆斯杜兰特首轮相遇",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E6%9D%9C%E5%85%B0%E7%89%B9%E9%A6%96%E8%BD%AE%E7%9B%B8%E9%81%87%23",
       "platform": "weibo",
       "keywords": [
         "新"
       ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     },
     {
-      "id": "auto_weibo_9b81c55d",
-      "title": "狼队不敌KSG全员发文",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%E4%B8%8D%E6%95%8CKSG%E5%85%A8%E5%91%98%E5%8F%91%E6%96%87%23",
+      "id": "auto_weibo_e8f1d04c",
+      "title": "装修最棒的决定",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%A3%85%E4%BF%AE%E6%9C%80%E6%A3%92%E7%9A%84%E5%86%B3%E5%AE%9A%23",
       "platform": "weibo",
       "keywords": [
         "新"
       ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
-      "source": "weibo_hotSearch"
-    },
-    {
-      "id": "auto_weibo_add974de",
-      "title": "好美 好难听",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%BD%E7%BE%8E%20%E5%A5%BD%E9%9A%BE%E5%90%AC%23",
-      "platform": "weibo",
-      "keywords": [
-        "新"
-      ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
-      "source": "weibo_hotSearch"
-    },
-    {
-      "id": "auto_weibo_89ae4a84",
-      "title": "李楷灿绯闻女友疑似出现在nctwish物料里",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%A5%B7%E7%81%BF%E7%BB%AF%E9%97%BB%E5%A5%B3%E5%8F%8B%E7%96%91%E4%BC%BC%E5%87%BA%E7%8E%B0%E5%9C%A8nctwish%E7%89%A9%E6%96%99%E9%87%8C%23",
-      "platform": "weibo",
-      "keywords": [],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
-      "source": "weibo_hotSearch"
-    },
-    {
-      "id": "auto_weibo_c8dfdb88",
-      "title": "查获美宜佳涉案卷烟306万支",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9F%A5%E8%8E%B7%E7%BE%8E%E5%AE%9C%E4%BD%B3%E6%B6%89%E6%A1%88%E5%8D%B7%E7%83%9F306%E4%B8%87%E6%94%AF%23",
-      "platform": "weibo",
-      "keywords": [
-        "新"
-      ],
-      "collectedAt": "2026-04-12T03:59:11.000Z",
+      "collectedAt": "2026-04-13T04:16:31.199Z",
       "source": "weibo_hotSearch"
     }
   ]
